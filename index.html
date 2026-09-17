@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopVision | تحلیل داده</title>
+
+    <link rel="stylesheet"href="style.css">
+
+</head>
+<body>
+
+
+    <!-- ================= SIDEBAR ================= -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            Shop<span>Vision</span>
+        </div>
+
+        <p class="logo-subtitle">
+            تحلیل و داده
+        </p>
+
+
+        <nav>
+
+            <a href="#dashboard"
+               class="active">
+
+                داشبورد
+
+            </a>
+
+
+            <a href="#sales">
+
+                داده‌های فروش
+
+            </a>
+
+
+            <a href="#employees">
+
+                داده‌های کارکنان
+
+            </a>
+
+        </nav>
+
+
+        <div class="sidebar-footer">
+
+            <p>
+                ShopVision
+            </p>
+
+            <small>
+                سیستم تحلیل داده
+            </small>
+
+        </div>
+
+    </aside>
+
+
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="main"
+          id="dashboard">
+
+
+        <!-- Header -->
+
+        <header class="header">
+
+            <div>
+
+                <h1>
+                    داشبورد تحلیل داده
+                </h1>
+
+                <p>
+                    بررسی اطلاعات فروش و کارکنان
+                </p>
+
+            </div>
+
+
+            <button class="date-button">
+
+                شهریور ۱۴۰۵
+
+            </button>
+
+        </header>
+
+
+
+        <!-- ================= SALES ================= -->
+
+        <section id="sales">
+
+
+            <div class="section-heading">
+
+                <h2>
+                    داده‌های فروش
+                </h2>
+
+                <p>
+                    بررسی عملکرد و اطلاعات فروش
+                </p>
+
+            </div>
+
+
+
+            <!-- Sales Cards -->
+
+            <div class="cards">
+
+
+                <!-- Total Revenue -->
+
+                <div class="card">
+
+                    <span>
+                        کل درآمد
+                    </span>
+
+                    <h3>
+                        ۸۵,۴۰۰ $
+                    </h3>
+
+                    <small class="positive">
+                        ↑ ۱۲.۴٪
+                    </small>
+
+                </div>
+
+
+
+                <!-- Average Unit Price -->
+
+                <div class="card">
+
+                    <span>
+                        میانگین قیمت واحد
+                    </span>
+
+                    <h3>
+                        ۶۸.۳۲ $
+                    </h3>
+
+                    <small class="positive">
+                        ↑ ۵.۸٪
+                    </small>
+
+                </div>
+
+
+
+                <!-- Total Quantity -->
+
+                <div class="card">
+
+                    <span>
+                        تعداد کل
+                    </span>
+
+                    <h3>
+                        ۱,۲۵۰
+                    </h3>
+
+                    <small class="positive">
+                        ↑ ۸.۲٪
+                    </small>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ================= CHARTS ================= -->
+
+            <div class="charts-grid">
+
+
+                <!-- Revenue by Payment -->
+
+                <div class="panel">
+
+                    <div class="panel-header">
+
+                        <div>
+
+                            <h3>
+                                درآمد بر اساس روش پرداخت
+                            </h3>
+
+                            <p>
+                                میزان درآمد هر روش پرداخت
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="payment-chart">
+
+
+                        <div class="payment-row">
+
+                            <div class="payment-info">
+
+                                <span>
+                                    کارت بانکی
+                                </span>
+
+                                <strong>
+                                    ۴۲,۷۰۰ $
+                                </strong>
+
+                            </div>
+
+
+                            <div class="bar">
+
+                                <div style="width: 82%;"></div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="payment-row">
+
+                            <div class="payment-info">
+
+                                <span>
+                                    نقدی
+                                </span>
+
+                                <strong>
+                                    ۲۵,۶۰۰ $
+                                </strong>
+
+                            </div>
+
+
+                            <div class="bar">
+
+                                <div style="width: 60%;"></div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="payment-row">
+
+                            <div class="payment-info">
+
+                                <span>
+                                    آنلاین
+                                </span>
+
+                                <strong>
+                                    ۱۷,۱۰۰ $
+                                </strong>
+
+                            </div>
+
+
+                            <div class="bar">
+
+                                <div style="width: 40%;"></div>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- Revenue by Category -->
+
+                <div class="panel">
+
+
+                    <div class="panel-header">
+
+                        <div>
+
+                            <h3>
+                                درآمد بر اساس دسته‌بندی
+                            </h3>
+
+                            <p>
+                                درآمد ایجادشده توسط هر دسته محصول
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="category-list">
+
+
+                        <div class="category-item">
+
+                            <span>
+                                لوازم الکترونیکی
+                            </span>
+
+                            <strong>
+                                ۳۱,۵۰۰ $
+                            </strong>
+
+                        </div>
+
+
+
+                        <div class="category-item">
+
+                            <span>
+                                پوشاک
+                            </span>
+
+                            <strong>
+                                ۲۲,۴۰۰ $
+                            </strong>
+
+                        </div>
+
+
+
+                        <div class="category-item">
+
+                            <span>
+                                مواد غذایی
+                            </span>
+
+                            <strong>
+                                ۱۸,۷۰۰ $
+                            </strong>
+
+                        </div>
+
+
+
+                        <div class="category-item">
+
+                            <span>
+                                لوازم جانبی
+                            </span>
+
+                            <strong>
+                                ۱۲,۸۰۰ $
+                            </strong>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ================= SALES TABLE ================= -->
+
+            <div class="panel table-panel">
+
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h3>
+                            داده‌های فروش
+                        </h3>
+
+                        <p>
+                            نمونه اطلاعات ثبت‌شده فروش
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="table-container">
+
+
+                    <table>
+
+
+                        <thead>
+
+                            <tr>
+
+                                <th>
+                                    محصول
+                                </th>
+
+                                <th>دسته‌بندی
+                                </th>
+
+                                <th>
+                                    تعداد
+                                </th>
+
+                                <th>
+                                    قیمت واحد
+                                </th>
+
+                                <th>
+                                    روش پرداخت
+                                </th>
+
+                                <th>
+                                    درآمد
+                                </th>
+
+                            </tr>
+
+                        </thead>
+
+
+
+                        <tbody>
+
+
+                            <tr>
+
+                                <td>
+                                    لپ‌تاپ
+                                </td>
+
+                                <td>
+                                    الکترونیکی
+                                </td>
+
+                                <td>
+                                    ۱۲۰
+                                </td>
+
+                                <td>
+                                    ۷۰۰ $
+                                </td>
+
+                                <td>
+                                    کارت
+                                </td>
+
+                                <td>
+                                    ۸۴,۰۰۰ $
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    هدفون
+                                </td>
+
+                                <td>
+                                    الکترونیکی
+                                </td>
+
+                                <td>
+                                    ۲۵۰
+                                </td>
+
+                                <td>
+                                    ۸۰ $
+                                </td>
+
+                                <td>
+                                    آنلاین
+                                </td>
+
+                                <td>
+                                    ۲۰,۰۰۰ $
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    تی‌شرت
+                                </td>
+
+                                <td>
+                                    پوشاک
+                                </td>
+
+                                <td>
+                                    ۳۰۰
+                                </td>
+
+                                <td>
+                                    ۲۵ $
+                                </td>
+
+                                <td>
+                                    نقدی
+                                </td>
+
+                                <td>
+                                    ۷,۵۰۰ $
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    کیبورد
+                                </td>
+
+                                <td>
+                                    لوازم جانبی
+                                </td>
+
+                                <td>
+                                    ۱۸۰
+                                </td>
+
+                                <td>
+                                    ۴۵ $
+                                </td>
+
+                                <td>
+                                    کارت
+                                </td>
+
+                                <td>
+                                    ۸,۱۰۰ $
+                                </td>
+
+                            </tr>
+
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- ================= EMPLOYEES ================= -->
+
+        <section id="employees">
+
+
+            <div class="section-heading employee-heading">
+
+                <h2>داده‌های کارکنان
+                </h2>
+
+                <p>
+                    بررسی عملکرد و بهره‌وری کارکنان
+                </p>
+
+            </div>
+
+
+
+            <!-- Employee Cards -->
+
+            <div class="cards">
+
+
+                <div class="card">
+
+                    <span>
+                        حقوق ماهانه
+                    </span>
+
+                    <h3>
+                        ۲,۴۵۰ $
+                    </h3>
+
+                    <small>
+                        میانگین حقوق
+                    </small>
+
+                </div>
+
+
+
+                <div class="card">
+
+                    <span>
+                        ساعات کاری روزانه
+                    </span>
+
+                    <h3>
+                        ۸.۲ ساعت
+                    </h3>
+
+                    <small>
+                        میانگین ساعات کاری
+                    </small>
+
+                </div>
+
+
+
+                <div class="card">
+
+                    <span>
+                        مجموع فروش ایجادشده
+                    </span>
+
+                    <h3>
+                        ۱۲۴,۸۰۰ $
+                    </h3>
+
+                    <small class="positive">
+                        ↑ ۱۴.۶٪
+                    </small>
+
+                </div>
+
+
+
+                <div class="card">
+
+                    <span>
+                        امتیاز عملکرد
+                    </span>
+
+                    <h3>
+                        ۸۷ از ۱۰۰
+                    </h3>
+
+                    <small class="positive">
+                        عملکرد خوب
+                    </small>
+
+                </div>
+
+
+            </div>
+
+
+
+            <!-- Employee Table -->
+
+            <div class="panel table-panel">
+
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h3>
+                            داده‌های کارکنان
+                        </h3>
+
+                        <p>
+                            بررسی عملکرد کارکنان
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="table-container">
+
+
+                    <table>
+
+
+                        <thead>
+
+                            <tr>
+
+                                <th>
+                                    کارمند
+                                </th>
+
+                                <th>
+                                    حقوق ماهانه
+                                </th>
+
+                                <th>
+                                    ساعات کاری روزانه
+                                </th>
+
+                                <th>
+                                    مجموع فروش ایجادشده
+                                </th>
+
+                                <th>
+                                    امتیاز عملکرد
+                                </th>
+
+                            </tr>
+
+                        </thead>
+
+
+
+                        <tbody>
+
+
+                            <tr>
+
+                                <td>
+                                    کارمند ۰۱
+                                </td>
+
+                                <td>
+                                    ۲,۶۰۰ $
+                                </td>
+
+                                <td>
+                                    ۸.۵
+                                </td>
+
+                                <td>
+                                    ۳۸,۵۰۰ $
+                                </td>
+
+                                <td>
+                                    ۹۲
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    کارمند ۰۲
+                                </td>
+
+                                <td>
+                                    ۲,۳۰۰ $
+                                </td>
+
+                                <td>
+                                    ۸
+                                </td>
+
+                                <td>
+                                    ۳۱,۲۰۰ $</td>
+
+                                <td>
+                                    ۸۶
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    کارمند ۰۳
+                                </td>
+
+                                <td>
+                                    ۲,۴۵۰ $
+                                </td>
+
+                                <td>
+                                    ۸.۲
+                                </td>
+
+                                <td>
+                                    ۲۹,۷۰۰ $
+                                </td>
+
+                                <td>
+                                    ۸۴
+                                </td>
+
+                            </tr>
+
+
+
+                            <tr>
+
+                                <td>
+                                    کارمند ۰۴
+                                </td>
+
+                                <td>
+                                    ۲,۵۰۰ $
+                                </td>
+
+                                <td>
+                                    ۸.۱
+                                </td>
+
+                                <td>
+                                    ۲۵,۴۰۰ $
+                                </td>
+
+                                <td>
+                                    ۸۱
+                                </td>
+
+                            </tr>
+
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- Footer -->
+
+        <footer>
+
+            ShopVision | داشبورد تحلیل داده
+
+        </footer>
+
+
+    </main>
+
+
+</body>
+</html>
