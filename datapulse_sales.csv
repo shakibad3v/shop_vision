@@ -1,0 +1,501 @@
+﻿order_id,date,employee_id,employee_name,city,product,category,unit_price_usd,quantity,discount_pct,revenue_usd,status,payment_method
+O0001,2026-09-04,E001,Sara Ahmadi,Sumqayit,External SSD 2TB,Storage,207.17,1,0,207.17,Completed,Card
+O0002,2026-08-04,E016,Hanieh Hosseinzadeh,Mingachevir,Wireless Mouse,Accessories,30.06,3,0,90.18,Completed,Card
+O0003,2026-08-09,E017,Amir Salehi,Ganja,External SSD 1TB,Storage,124.25,1,0.05,118.04,Completed,Online Transfer
+O0004,2026-09-16,E003,Mina Rahimi,Mingachevir,Android Tablet 12,Tablets,406.35,1,0.05,386.03,Completed,Cash
+O0005,2026-08-08,E002,Ali Karimi,Ganja,Wireless Mouse,Accessories,27.98,1,0.1,25.18,Completed,Card
+O0006,2026-08-05,E001,Sara Ahmadi,Ganja,Laptop Air 13,Laptops,964.22,2,0.1,1735.6,Processing,Cash
+O0007,2026-09-12,E017,Amir Salehi,Lankaran,External SSD 1TB,Storage,114.66,1,0.1,103.19,Returned,Card
+O0008,2026-08-31,E016,Hanieh Hosseinzadeh,Lankaran,Ultrawide Monitor 34,Monitors,671.7,1,0.05,638.12,Completed,Online Transfer
+O0009,2026-08-04,E001,Sara Ahmadi,Ganja,Business Laptop 15,Laptops,1135.05,2,0,2270.1,Completed,Card
+O0010,2026-09-04,E001,Sara Ahmadi,Mingachevir,Webcam HD,Accessories,75.48,1,0.05,71.71,Completed,Card
+O0011,2026-08-04,E002,Ali Karimi,Lankaran,Portable HDD 2TB,Storage,91.84,3,0,275.52,Returned,Cash
+O0012,2026-08-31,E001,Sara Ahmadi,Sumqayit,Android Tablet 12,Tablets,413.01,2,0.05,784.72,Completed,Cash
+O0013,2026-08-19,E018,Raha Mohammadi,Ganja,Ultrawide Monitor 34,Monitors,710.62,2,0.05,1350.18,Completed,Card
+O0014,2026-08-19,E018,Raha Mohammadi,Baku,Android Tablet 12,Tablets,417.58,1,0,417.58,Completed,Card
+O0015,2026-09-07,E017,Amir Salehi,Ganja,External SSD 1TB,Storage,118.44,2,0,236.88,Completed,Card
+O0016,2026-09-08,E017,Amir Salehi,Mingachevir,Gaming Laptop X,Laptops,1621.82,1,0,1621.82,Completed,Online Transfer
+O0017,2026-08-03,E003,Mina Rahimi,Shaki,Gaming Laptop X,Laptops,1576.8,1,0,1576.8,Completed,Online Transfer
+O0018,2026-08-21,E016,Hanieh Hosseinzadeh,Baku,Wireless Mouse,Accessories,28.11,1,0,28.11,Completed,Card
+O0019,2026-08-30,E003,Mina Rahimi,Ganja,Business Laptop 15,Laptops,1136.72,1,0,1136.72,Completed,Cash
+O0020,2026-08-19,E018,Raha Mohammadi,Baku,Tablet Air 10,Tablets,542.52,1,0.1,488.27,Completed,Online Transfer
+O0021,2026-09-05,E003,Mina Rahimi,Baku,USB-C Hub,Accessories,46.91,1,0,46.91,Processing,Online Transfer
+O0022,2026-09-05,E002,Ali Karimi,Mingachevir,Tablet Pro 11,Tablets,726.5,1,0,726.5,Completed,Cash
+O0023,2026-08-17,E001,Sara Ahmadi,Ganja,Laptop Air 13,Laptops,949.2,1,0,949.2,Completed,Online Transfer
+O0024,2026-08-17,E001,Sara Ahmadi,Baku,Tablet Air 10,Tablets,560.82,1,0,560.82,Completed,Online Transfer
+O0025,2026-08-10,E016,Hanieh Hosseinzadeh,Baku,Portable HDD 2TB,Storage,84.01,1,0,84.01,Completed,Cash
+O0026,2026-08-24,E001,Sara Ahmadi,Mingachevir,Laptop Air 13,Laptops,1037.84,1,0,1037.84,Completed,Cash
+O0027,2026-09-09,E002,Ali Karimi,Baku,Tablet Pro 11,Tablets,780.33,1,0.05,741.31,Completed,Card
+O0028,2026-08-22,E003,Mina Rahimi,Shaki,Ultrawide Monitor 34,Monitors,718.74,2,0,1437.48,Completed,Card
+O0029,2026-08-25,E016,Hanieh Hosseinzadeh,Sumqayit,Laptop Air 13,Laptops,1033.41,1,0,1033.41,Completed,Card
+O0030,2026-08-15,E001,Sara Ahmadi,Sumqayit,Laptop Pro 14,Laptops,1315.37,1,0,1315.37,Completed,Online Transfer
+O0031,2026-09-02,E001,Sara Ahmadi,Sumqayit,4K Monitor 27,Monitors,354.15,2,0,708.3,Completed,Card
+O0032,2026-09-07,E003,Mina Rahimi,Mingachevir,Mechanical Keyboard,Accessories,84.03,1,0.05,79.83,Completed,Online Transfer
+O0033,2026-08-08,E016,Hanieh Hosseinzadeh,Mingachevir,4K Monitor 27,Monitors,362.59,1,0,362.59,Completed,Online Transfer
+O0034,2026-09-13,E003,Mina Rahimi,Sumqayit,Android Tablet 12,Tablets,391.05,1,0.1,351.94,Completed,Online Transfer
+O0035,2026-08-08,E018,Raha Mohammadi,Mingachevir,USB-C Hub,Accessories,44.81,1,0,44.81,Completed,Card
+O0036,2026-08-13,E002,Ali Karimi,Mingachevir,Ultrawide Monitor 34,Monitors,708.19,1,0.1,637.37,Completed,Cash
+O0037,2026-08-26,E017,Amir Salehi,Shaki,Portable HDD 2TB,Storage,91.82,1,0.1,82.64,Completed,Cash
+O0038,2026-08-30,E018,Raha Mohammadi,Shaki,Webcam HD,Accessories,78.1,1,0,78.1,Completed,Card
+O0039,2026-08-19,E002,Ali Karimi,Ganja,External SSD 2TB,Storage,201.59,1,0,201.59,Completed,Card
+O0040,2026-08-10,E001,Sara Ahmadi,Lankaran,Laptop Pro 14,Laptops,1227.66,4,0.05,4665.11,Completed,Online Transfer
+O0041,2026-09-06,E002,Ali Karimi,Baku,Android Tablet 12,Tablets,406.59,1,0,406.59,Completed,Cash
+O0042,2026-08-15,E017,Amir Salehi,Baku,Tablet Air 10,Tablets,564.62,2,0,1129.24,Completed,Cash
+O0043,2026-08-09,E016,Hanieh Hosseinzadeh,Shaki,Webcam HD,Accessories,80.06,4,0.1,288.22,Completed,Online Transfer
+O0044,2026-08-28,E016,Hanieh Hosseinzadeh,Ganja,Portable HDD 2TB,Storage,88.03,1,0,88.03,Processing,Online Transfer
+O0045,2026-08-18,E018,Raha Mohammadi,Ganja,External SSD 2TB,Storage,197.67,1,0,197.67,Completed,Cash
+O0046,2026-08-22,E016,Hanieh Hosseinzadeh,Shaki,Laptop Stand,Accessories,40.49,1,0,40.49,Completed,Card
+O0047,2026-08-05,E002,Ali Karimi,Lankaran,Ultrawide Monitor 34,Monitors,688.4,1,0.05,653.98,Completed,Online Transfer
+O0048,2026-09-14,E001,Sara Ahmadi,Sumqayit,Laptop Pro 14,Laptops,1343.48,2,0,2686.96,Completed,Cash
+O0049,2026-08-27,E002,Ali Karimi,Ganja,Portable HDD 2TB,Storage,90.98,1,0.05,86.43,Completed,Cash
+O0050,2026-08-28,E016,Hanieh Hosseinzadeh,Lankaran,External SSD 1TB,Storage,112.24,1,0,112.24,Completed,Card
+O0051,2026-09-09,E001,Sara Ahmadi,Shaki,Portable HDD 2TB,Storage,83.92,1,0,83.92,Completed,Cash
+O0052,2026-08-09,E016,Hanieh Hosseinzadeh,Sumqayit,Webcam HD,Accessories,75.84,1,0,75.84,Completed,Cash
+O0053,2026-08-18,E017,Amir Salehi,Sumqayit,Ultrawide Monitor 34,Monitors,676.46,1,0,676.46,Completed,Card
+O0054,2026-09-11,E002,Ali Karimi,Baku,Gaming Laptop X,Laptops,1640.47,1,0,1640.47,Completed,Online Transfer
+O0055,2026-08-10,E002,Ali Karimi,Shaki,Wireless Mouse,Accessories,27.66,1,0.05,26.28,Completed,Cash
+O0056,2026-08-24,E002,Ali Karimi,Baku,Tablet Air 10,Tablets,552.65,3,0,1657.95,Completed,Online Transfer
+O0057,2026-08-02,E018,Raha Mohammadi,Baku,USB-C Hub,Accessories,45.15,2,0,90.3,Completed,Online Transfer
+O0058,2026-09-14,E017,Amir Salehi,Mingachevir,Wireless Mouse,Accessories,27.59,2,0,55.18,Processing,Card
+O0059,2026-08-23,E003,Mina Rahimi,Lankaran,Portable HDD 2TB,Storage,87.85,1,0,87.85,Completed,Cash
+O0060,2026-08-07,E018,Raha Mohammadi,Lankaran,Ultrawide Monitor 34,Monitors,730.93,1,0,730.93,Completed,Card
+O0061,2026-09-16,E017,Amir Salehi,Lankaran,External SSD 2TB,Storage,208.19,1,0.05,197.78,Completed,Cash
+O0062,2026-09-16,E003,Mina Rahimi,Ganja,Mechanical Keyboard,Accessories,86.82,1,0.05,82.48,Returned,Cash
+O0063,2026-09-06,E016,Hanieh Hosseinzadeh,Sumqayit,4K Monitor 27,Monitors,340.97,1,0,340.97,Completed,Cash
+O0064,2026-08-22,E001,Sara Ahmadi,Ganja,Mechanical Keyboard,Accessories,92.28,2,0.1,166.1,Completed,Card
+O0065,2026-08-16,E018,Raha Mohammadi,Lankaran,Ultrawide Monitor 34,Monitors,694.63,2,0.05,1319.8,Completed,Card
+O0066,2026-08-06,E017,Amir Salehi,Lankaran,USB-C Hub,Accessories,43.4,2,0,86.8,Completed,Online Transfer
+O0067,2026-09-03,E018,Raha Mohammadi,Sumqayit,Noise Cancelling Headphones,Accessories,147.03,2,0.05,279.36,Completed,Cash
+O0068,2026-08-17,E017,Amir Salehi,Ganja,Wireless Mouse,Accessories,27.64,1,0,27.64,Completed,Card
+O0069,2026-08-31,E003,Mina Rahimi,Ganja,Mechanical Keyboard,Accessories,90.75,3,0,272.25,Completed,Cash
+O0070,2026-08-15,E003,Mina Rahimi,Baku,Noise Cancelling Headphones,Accessories,143.0,1,0,143.0,Completed,Online Transfer
+O0071,2026-08-19,E001,Sara Ahmadi,Sumqayit,Tablet Pro 11,Tablets,756.61,2,0.1,1361.9,Completed,Cash
+O0072,2026-08-31,E016,Hanieh Hosseinzadeh,Baku,Webcam HD,Accessories,77.22,3,0,231.66,Completed,Cash
+O0073,2026-09-01,E017,Amir Salehi,Baku,Gaming Laptop X,Laptops,1604.55,2,0,3209.1,Completed,Card
+O0074,2026-08-08,E002,Ali Karimi,Lankaran,Portable HDD 2TB,Storage,91.14,1,0.1,82.03,Completed,Cash
+O0075,2026-08-29,E017,Amir Salehi,Mingachevir,USB-C Hub,Accessories,46.56,4,0,186.24,Completed,Online Transfer
+O0076,2026-08-07,E002,Ali Karimi,Mingachevir,Android Tablet 12,Tablets,402.51,1,0,402.51,Completed,Card
+O0077,2026-08-11,E001,Sara Ahmadi,Sumqayit,Laptop Pro 14,Laptops,1279.43,2,0,2558.86,Completed,Online Transfer
+O0078,2026-08-19,E018,Raha Mohammadi,Shaki,Webcam HD,Accessories,74.88,1,0.1,67.39,Completed,Card
+O0079,2026-08-28,E002,Ali Karimi,Baku,Business Laptop 15,Laptops,1198.88,1,0,1198.88,Cancelled,Card
+O0080,2026-08-20,E016,Hanieh Hosseinzadeh,Mingachevir,USB-C Hub,Accessories,44.47,1,0,44.47,Completed,Online Transfer
+O0081,2026-09-01,E003,Mina Rahimi,Sumqayit,Webcam HD,Accessories,74.96,1,0.1,67.46,Completed,Card
+O0082,2026-08-06,E001,Sara Ahmadi,Mingachevir,Wireless Mouse,Accessories,30.33,2,0,60.66,Completed,Card
+O0083,2026-08-12,E017,Amir Salehi,Shaki,External SSD 1TB,Storage,118.65,1,0.05,112.72,Completed,Cash
+O0084,2026-08-06,E002,Ali Karimi,Lankaran,External SSD 1TB,Storage,116.41,1,0,116.41,Completed,Online Transfer
+O0085,2026-09-01,E001,Sara Ahmadi,Baku,USB-C Hub,Accessories,45.58,1,0.05,43.3,Completed,Cash
+O0086,2026-08-17,E001,Sara Ahmadi,Lankaran,Laptop Stand,Accessories,37.16,2,0.1,66.89,Processing,Cash
+O0087,2026-08-04,E016,Hanieh Hosseinzadeh,Ganja,Android Tablet 12,Tablets,397.81,1,0,397.81,Completed,Cash
+O0088,2026-09-05,E001,Sara Ahmadi,Shaki,Tablet Pro 11,Tablets,780.49,1,0,780.49,Completed,Online Transfer
+O0089,2026-08-16,E002,Ali Karimi,Lankaran,Tablet Air 10,Tablets,534.83,1,0,534.83,Completed,Card
+O0090,2026-09-11,E003,Mina Rahimi,Lankaran,Tablet Pro 11,Tablets,745.12,2,0.05,1415.73,Completed,Cash
+O0091,2026-08-16,E017,Amir Salehi,Baku,Webcam HD,Accessories,79.05,1,0,79.05,Returned,Cash
+O0092,2026-08-27,E003,Mina Rahimi,Mingachevir,Laptop Stand,Accessories,40.67,1,0,40.67,Completed,Online Transfer
+O0093,2026-09-12,E003,Mina Rahimi,Mingachevir,External SSD 1TB,Storage,123.19,1,0.1,110.87,Completed,Cash
+O0094,2026-08-30,E016,Hanieh Hosseinzadeh,Lankaran,Laptop Stand,Accessories,40.39,4,0,161.56,Completed,Card
+O0095,2026-08-21,E018,Raha Mohammadi,Lankaran,External SSD 1TB,Storage,121.09,2,0,242.18,Completed,Card
+O0096,2026-08-09,E016,Hanieh Hosseinzadeh,Mingachevir,External SSD 2TB,Storage,208.19,1,0,208.19,Completed,Cash
+O0097,2026-08-01,E016,Hanieh Hosseinzadeh,Sumqayit,Tablet Pro 11,Tablets,737.84,1,0,737.84,Completed,Online Transfer
+O0098,2026-09-14,E017,Amir Salehi,Sumqayit,4K Monitor 27,Monitors,353.01,2,0.05,670.72,Processing,Online Transfer
+O0099,2026-09-15,E018,Raha Mohammadi,Ganja,External SSD 1TB,Storage,123.28,1,0,123.28,Completed,Online Transfer
+O0100,2026-08-06,E001,Sara Ahmadi,Ganja,Ultrawide Monitor 34,Monitors,732.28,2,0.05,1391.33,Completed,Online Transfer
+O0101,2026-08-20,E003,Mina Rahimi,Ganja,Laptop Pro 14,Laptops,1227.63,2,0.05,2332.5,Completed,Card
+O0102,2026-09-03,E001,Sara Ahmadi,Lankaran,Ultrawide Monitor 34,Monitors,700.57,2,0.1,1261.03,Completed,Online Transfer
+O0103,2026-09-13,E018,Raha Mohammadi,Lankaran,Wireless Mouse,Accessories,28.85,1,0,28.85,Completed,Cash
+O0104,2026-09-12,E017,Amir Salehi,Baku,Laptop Pro 14,Laptops,1349.51,1,0,1349.51,Completed,Cash
+O0105,2026-08-23,E003,Mina Rahimi,Lankaran,USB-C Hub,Accessories,45.46,1,0,45.46,Completed,Cash
+O0106,2026-08-07,E018,Raha Mohammadi,Baku,Wireless Mouse,Accessories,28.48,1,0,28.48,Completed,Online Transfer
+O0107,2026-08-26,E001,Sara Ahmadi,Shaki,Mechanical Keyboard,Accessories,83.74,2,0.1,150.73,Completed,Cash
+O0108,2026-08-19,E017,Amir Salehi,Shaki,Wireless Mouse,Accessories,29.2,1,0,29.2,Completed,Online Transfer
+O0109,2026-09-12,E003,Mina Rahimi,Baku,Tablet Pro 11,Tablets,755.82,2,0.05,1436.06,Completed,Online Transfer
+O0110,2026-08-24,E002,Ali Karimi,Ganja,Tablet Pro 11,Tablets,711.49,1,0,711.49,Completed,Online Transfer
+O0111,2026-08-24,E016,Hanieh Hosseinzadeh,Shaki,External SSD 2TB,Storage,198.04,1,0,198.04,Completed,Cash
+O0112,2026-08-08,E018,Raha Mohammadi,Mingachevir,Webcam HD,Accessories,82.63,1,0.05,78.5,Returned,Cash
+O0113,2026-08-06,E018,Raha Mohammadi,Mingachevir,4K Monitor 27,Monitors,328.59,1,0,328.59,Completed,Cash
+O0114,2026-09-10,E017,Amir Salehi,Mingachevir,Noise Cancelling Headphones,Accessories,141.84,1,0,141.84,Completed,Card
+O0115,2026-09-11,E018,Raha Mohammadi,Baku,Gaming Laptop X,Laptops,1614.82,1,0.05,1534.08,Completed,Card
+O0116,2026-08-03,E017,Amir Salehi,Lankaran,Laptop Air 13,Laptops,972.51,1,0,972.51,Completed,Cash
+O0117,2026-08-24,E016,Hanieh Hosseinzadeh,Lankaran,Portable HDD 2TB,Storage,87.76,2,0,175.52,Completed,Online Transfer
+O0118,2026-08-27,E002,Ali Karimi,Baku,Mechanical Keyboard,Accessories,83.98,1,0,83.98,Completed,Online Transfer
+O0119,2026-08-24,E003,Mina Rahimi,Baku,Portable HDD 2TB,Storage,92.49,1,0,92.49,Completed,Cash
+O0120,2026-08-06,E003,Mina Rahimi,Ganja,Android Tablet 12,Tablets,403.22,1,0,403.22,Completed,Online Transfer
+O0121,2026-08-14,E002,Ali Karimi,Ganja,Gaming Laptop X,Laptops,1649.02,1,0,1649.02,Completed,Online Transfer
+O0122,2026-08-01,E003,Mina Rahimi,Baku,Mechanical Keyboard,Accessories,92.06,1,0,92.06,Completed,Online Transfer
+O0123,2026-08-02,E003,Mina Rahimi,Ganja,Tablet Pro 11,Tablets,705.28,2,0,1410.56,Completed,Cash
+O0124,2026-08-04,E016,Hanieh Hosseinzadeh,Sumqayit,Tablet Pro 11,Tablets,765.17,1,0.05,726.91,Completed,Online Transfer
+O0125,2026-09-07,E018,Raha Mohammadi,Sumqayit,Business Laptop 15,Laptops,1186.67,1,0.1,1068.0,Completed,Cash
+O0126,2026-09-11,E018,Raha Mohammadi,Lankaran,Laptop Pro 14,Laptops,1229.75,1,0,1229.75,Completed,Online Transfer
+O0127,2026-08-29,E002,Ali Karimi,Mingachevir,Gaming Laptop X,Laptops,1661.23,1,0,1661.23,Completed,Online Transfer
+O0128,2026-09-07,E003,Mina Rahimi,Mingachevir,Portable HDD 2TB,Storage,90.63,1,0.05,86.1,Completed,Online Transfer
+O0129,2026-08-28,E017,Amir Salehi,Lankaran,Business Laptop 15,Laptops,1231.66,1,0,1231.66,Completed,Cash
+O0130,2026-08-15,E001,Sara Ahmadi,Lankaran,Ultrawide Monitor 34,Monitors,683.12,1,0,683.12,Completed,Cash
+O0131,2026-09-12,E001,Sara Ahmadi,Baku,Mechanical Keyboard,Accessories,87.32,1,0,87.32,Returned,Card
+O0132,2026-08-28,E001,Sara Ahmadi,Mingachevir,Business Laptop 15,Laptops,1225.26,1,0.1,1102.73,Completed,Online Transfer
+O0133,2026-08-22,E016,Hanieh Hosseinzadeh,Sumqayit,Business Laptop 15,Laptops,1181.24,2,0,2362.48,Returned,Online Transfer
+O0134,2026-08-20,E016,Hanieh Hosseinzadeh,Baku,Noise Cancelling Headphones,Accessories,141.76,1,0,141.76,Completed,Cash
+O0135,2026-09-05,E016,Hanieh Hosseinzadeh,Mingachevir,Noise Cancelling Headphones,Accessories,141.94,1,0.1,127.75,Completed,Online Transfer
+O0136,2026-09-13,E003,Mina Rahimi,Ganja,Portable HDD 2TB,Storage,83.92,3,0,251.76,Completed,Cash
+O0137,2026-09-14,E002,Ali Karimi,Shaki,USB-C Hub,Accessories,46.86,1,0.1,42.17,Completed,Cash
+O0138,2026-08-05,E017,Amir Salehi,Lankaran,Tablet Pro 11,Tablets,765.11,3,0,2295.33,Completed,Cash
+O0139,2026-08-30,E017,Amir Salehi,Baku,Laptop Stand,Accessories,37.34,1,0.1,33.61,Completed,Card
+O0140,2026-08-10,E016,Hanieh Hosseinzadeh,Lankaran,Tablet Air 10,Tablets,561.62,1,0.05,533.54,Completed,Online Transfer
+O0141,2026-08-29,E016,Hanieh Hosseinzadeh,Sumqayit,Ultrawide Monitor 34,Monitors,678.06,2,0,1356.12,Completed,Online Transfer
+O0142,2026-09-13,E017,Amir Salehi,Baku,External SSD 1TB,Storage,118.76,1,0,118.76,Completed,Card
+O0143,2026-08-20,E001,Sara Ahmadi,Lankaran,Android Tablet 12,Tablets,408.74,2,0,817.48,Completed,Online Transfer
+O0144,2026-08-28,E017,Amir Salehi,Baku,Tablet Air 10,Tablets,523.86,1,0,523.86,Completed,Cash
+O0145,2026-08-03,E017,Amir Salehi,Mingachevir,Ultrawide Monitor 34,Monitors,658.5,3,0.05,1876.72,Processing,Cash
+O0146,2026-09-15,E002,Ali Karimi,Lankaran,Ultrawide Monitor 34,Monitors,679.32,1,0.1,611.39,Returned,Online Transfer
+O0147,2026-08-24,E016,Hanieh Hosseinzadeh,Baku,Gaming Laptop X,Laptops,1579.87,1,0.1,1421.88,Completed,Cash
+O0148,2026-08-20,E018,Raha Mohammadi,Mingachevir,Laptop Stand,Accessories,37.61,2,0,75.22,Completed,Online Transfer
+O0149,2026-08-13,E002,Ali Karimi,Baku,Noise Cancelling Headphones,Accessories,145.81,3,0,437.43,Completed,Card
+O0150,2026-08-17,E001,Sara Ahmadi,Shaki,Android Tablet 12,Tablets,382.67,1,0,382.67,Completed,Cash
+O0151,2026-08-30,E017,Amir Salehi,Shaki,Webcam HD,Accessories,80.18,2,0,160.36,Completed,Cash
+O0152,2026-08-10,E003,Mina Rahimi,Baku,Webcam HD,Accessories,74.85,1,0.1,67.36,Completed,Cash
+O0153,2026-09-02,E003,Mina Rahimi,Shaki,Gaming Laptop X,Laptops,1557.66,1,0,1557.66,Completed,Card
+O0154,2026-09-09,E018,Raha Mohammadi,Lankaran,External SSD 2TB,Storage,195.48,1,0,195.48,Returned,Online Transfer
+O0155,2026-09-11,E001,Sara Ahmadi,Baku,Android Tablet 12,Tablets,389.17,1,0.05,369.71,Completed,Cash
+O0156,2026-09-15,E016,Hanieh Hosseinzadeh,Mingachevir,Gaming Laptop X,Laptops,1591.81,1,0.05,1512.22,Completed,Online Transfer
+O0157,2026-09-09,E003,Mina Rahimi,Baku,Tablet Air 10,Tablets,538.04,3,0.1,1452.71,Completed,Online Transfer
+O0158,2026-09-11,E003,Mina Rahimi,Shaki,Laptop Stand,Accessories,36.94,1,0,36.94,Completed,Online Transfer
+O0159,2026-09-08,E003,Mina Rahimi,Shaki,Tablet Pro 11,Tablets,731.53,1,0,731.53,Completed,Online Transfer
+O0160,2026-09-12,E017,Amir Salehi,Shaki,4K Monitor 27,Monitors,333.01,2,0.05,632.72,Completed,Cash
+O0161,2026-08-09,E001,Sara Ahmadi,Sumqayit,External SSD 2TB,Storage,189.11,1,0,189.11,Completed,Card
+O0162,2026-08-14,E002,Ali Karimi,Baku,Laptop Stand,Accessories,40.73,1,0,40.73,Completed,Cash
+O0163,2026-08-07,E001,Sara Ahmadi,Mingachevir,External SSD 2TB,Storage,203.93,2,0,407.86,Cancelled,Card
+O0164,2026-09-08,E017,Amir Salehi,Shaki,4K Monitor 27,Monitors,333.98,1,0,333.98,Completed,Cash
+O0165,2026-08-03,E017,Amir Salehi,Shaki,Ultrawide Monitor 34,Monitors,685.07,2,0,1370.14,Returned,Cash
+O0166,2026-08-15,E002,Ali Karimi,Shaki,Portable HDD 2TB,Storage,86.0,3,0,258.0,Completed,Online Transfer
+O0167,2026-08-29,E016,Hanieh Hosseinzadeh,Ganja,Webcam HD,Accessories,80.95,2,0,161.9,Completed,Online Transfer
+O0168,2026-08-09,E001,Sara Ahmadi,Baku,Mechanical Keyboard,Accessories,84.17,1,0.1,75.75,Completed,Cash
+O0169,2026-08-06,E016,Hanieh Hosseinzadeh,Ganja,Tablet Air 10,Tablets,532.53,2,0,1065.06,Completed,Cash
+O0170,2026-08-23,E016,Hanieh Hosseinzadeh,Sumqayit,Laptop Pro 14,Laptops,1280.34,1,0,1280.34,Completed,Card
+O0171,2026-08-02,E002,Ali Karimi,Baku,Laptop Stand,Accessories,40.65,2,0,81.3,Completed,Cash
+O0172,2026-08-31,E001,Sara Ahmadi,Sumqayit,Tablet Pro 11,Tablets,766.58,1,0,766.58,Completed,Card
+O0173,2026-08-10,E003,Mina Rahimi,Sumqayit,Portable HDD 2TB,Storage,92.86,1,0,92.86,Completed,Card
+O0174,2026-08-04,E001,Sara Ahmadi,Mingachevir,Wireless Mouse,Accessories,28.6,2,0.05,54.34,Completed,Online Transfer
+O0175,2026-08-02,E001,Sara Ahmadi,Sumqayit,External SSD 2TB,Storage,199.65,2,0.1,359.37,Completed,Card
+O0176,2026-09-06,E003,Mina Rahimi,Mingachevir,Ultrawide Monitor 34,Monitors,671.46,1,0,671.46,Completed,Online Transfer
+O0177,2026-09-02,E018,Raha Mohammadi,Sumqayit,External SSD 2TB,Storage,199.19,1,0.05,189.23,Completed,Cash
+O0178,2026-08-02,E018,Raha Mohammadi,Mingachevir,Noise Cancelling Headphones,Accessories,152.98,1,0,152.98,Completed,Online Transfer
+O0179,2026-08-22,E002,Ali Karimi,Shaki,Tablet Pro 11,Tablets,707.71,1,0.05,672.32,Completed,Cash
+O0180,2026-09-10,E016,Hanieh Hosseinzadeh,Sumqayit,Tablet Air 10,Tablets,565.07,1,0,565.07,Completed,Card
+O0181,2026-08-03,E016,Hanieh Hosseinzadeh,Lankaran,Android Tablet 12,Tablets,413.94,1,0.1,372.55,Completed,Cash
+O0182,2026-08-03,E018,Raha Mohammadi,Sumqayit,Android Tablet 12,Tablets,387.62,2,0,775.24,Completed,Card
+O0183,2026-08-24,E016,Hanieh Hosseinzadeh,Ganja,Ultrawide Monitor 34,Monitors,725.45,2,0,1450.9,Cancelled,Cash
+O0184,2026-09-14,E001,Sara Ahmadi,Baku,External SSD 1TB,Storage,116.67,2,0.05,221.67,Completed,Cash
+O0185,2026-09-08,E018,Raha Mohammadi,Sumqayit,Tablet Air 10,Tablets,549.0,1,0,549.0,Completed,Cash
+O0186,2026-09-08,E018,Raha Mohammadi,Mingachevir,Ultrawide Monitor 34,Monitors,669.87,1,0,669.87,Completed,Cash
+O0187,2026-08-18,E018,Raha Mohammadi,Baku,Laptop Air 13,Laptops,947.31,1,0,947.31,Completed,Card
+O0188,2026-09-08,E003,Mina Rahimi,Lankaran,Webcam HD,Accessories,74.56,1,0,74.56,Completed,Online Transfer
+O0189,2026-08-03,E001,Sara Ahmadi,Ganja,Tablet Pro 11,Tablets,760.01,3,0.1,2052.03,Completed,Online Transfer
+O0190,2026-08-24,E001,Sara Ahmadi,Lankaran,4K Monitor 27,Monitors,340.13,1,0,340.13,Returned,Online Transfer
+O0191,2026-08-25,E002,Ali Karimi,Sumqayit,Portable HDD 2TB,Storage,84.81,2,0.1,152.66,Completed,Online Transfer
+O0192,2026-09-01,E018,Raha Mohammadi,Baku,Android Tablet 12,Tablets,380.44,2,0.05,722.84,Completed,Online Transfer
+O0193,2026-08-21,E003,Mina Rahimi,Shaki,Noise Cancelling Headphones,Accessories,151.69,1,0,151.69,Completed,Online Transfer
+O0194,2026-09-14,E002,Ali Karimi,Ganja,Tablet Air 10,Tablets,563.99,1,0,563.99,Completed,Cash
+O0195,2026-08-02,E017,Amir Salehi,Mingachevir,Noise Cancelling Headphones,Accessories,149.14,1,0,149.14,Completed,Card
+O0196,2026-08-05,E016,Hanieh Hosseinzadeh,Mingachevir,USB-C Hub,Accessories,44.27,2,0.05,84.11,Completed,Card
+O0197,2026-08-09,E003,Mina Rahimi,Mingachevir,Laptop Stand,Accessories,39.42,1,0,39.42,Completed,Online Transfer
+O0198,2026-09-07,E001,Sara Ahmadi,Mingachevir,Tablet Air 10,Tablets,562.43,1,0,562.43,Completed,Card
+O0199,2026-08-20,E017,Amir Salehi,Baku,Tablet Air 10,Tablets,525.84,3,0,1577.52,Completed,Cash
+O0200,2026-08-13,E001,Sara Ahmadi,Shaki,Portable HDD 2TB,Storage,86.35,1,0.1,77.72,Completed,Card
+O0201,2026-09-07,E003,Mina Rahimi,Baku,Tablet Pro 11,Tablets,718.17,1,0.1,646.35,Cancelled,Card
+O0202,2026-08-06,E002,Ali Karimi,Lankaran,Laptop Air 13,Laptops,1043.3,2,0.1,1877.94,Completed,Online Transfer
+O0203,2026-09-10,E003,Mina Rahimi,Ganja,Laptop Pro 14,Laptops,1292.22,1,0.05,1227.61,Completed,Online Transfer
+O0204,2026-08-26,E016,Hanieh Hosseinzadeh,Lankaran,USB-C Hub,Accessories,44.55,2,0.05,84.64,Completed,Card
+O0205,2026-08-22,E003,Mina Rahimi,Ganja,Tablet Pro 11,Tablets,729.81,2,0.05,1386.64,Completed,Cash
+O0206,2026-09-02,E016,Hanieh Hosseinzadeh,Ganja,Portable HDD 2TB,Storage,84.7,1,0,84.7,Completed,Card
+O0207,2026-08-04,E002,Ali Karimi,Mingachevir,USB-C Hub,Accessories,46.98,2,0,93.96,Completed,Online Transfer
+O0208,2026-08-21,E016,Hanieh Hosseinzadeh,Lankaran,Android Tablet 12,Tablets,408.55,1,0,408.55,Completed,Card
+O0209,2026-08-06,E003,Mina Rahimi,Baku,4K Monitor 27,Monitors,347.46,3,0,1042.38,Completed,Cash
+O0210,2026-09-01,E002,Ali Karimi,Shaki,External SSD 1TB,Storage,115.6,1,0,115.6,Completed,Cash
+O0211,2026-08-26,E003,Mina Rahimi,Sumqayit,Noise Cancelling Headphones,Accessories,140.8,1,0.1,126.72,Completed,Card
+O0212,2026-08-25,E017,Amir Salehi,Baku,External SSD 2TB,Storage,196.92,1,0.1,177.23,Completed,Card
+O0213,2026-08-07,E003,Mina Rahimi,Ganja,4K Monitor 27,Monitors,342.39,4,0,1369.56,Completed,Online Transfer
+O0214,2026-09-02,E003,Mina Rahimi,Mingachevir,4K Monitor 27,Monitors,347.26,1,0.05,329.9,Completed,Cash
+O0215,2026-08-10,E016,Hanieh Hosseinzadeh,Shaki,External SSD 2TB,Storage,190.12,3,0.1,513.32,Completed,Cash
+O0216,2026-09-07,E017,Amir Salehi,Lankaran,Laptop Stand,Accessories,38.84,1,0,38.84,Completed,Card
+O0217,2026-08-24,E018,Raha Mohammadi,Mingachevir,Laptop Stand,Accessories,39.55,3,0,118.65,Completed,Cash
+O0218,2026-08-17,E018,Raha Mohammadi,Lankaran,Wireless Mouse,Accessories,29.56,1,0.1,26.6,Completed,Card
+O0219,2026-09-13,E001,Sara Ahmadi,Sumqayit,Wireless Mouse,Accessories,27.36,3,0.05,77.98,Completed,Cash
+O0220,2026-08-10,E016,Hanieh Hosseinzadeh,Shaki,Ultrawide Monitor 34,Monitors,710.15,1,0,710.15,Completed,Card
+O0221,2026-09-03,E016,Hanieh Hosseinzadeh,Ganja,Android Tablet 12,Tablets,399.68,4,0,1598.72,Completed,Cash
+O0222,2026-09-04,E018,Raha Mohammadi,Mingachevir,Laptop Stand,Accessories,39.0,1,0,39.0,Processing,Cash
+O0223,2026-08-13,E003,Mina Rahimi,Shaki,Wireless Mouse,Accessories,28.15,1,0,28.15,Returned,Card
+O0224,2026-09-14,E018,Raha Mohammadi,Sumqayit,External SSD 1TB,Storage,116.01,1,0,116.01,Returned,Card
+O0225,2026-09-06,E002,Ali Karimi,Baku,Portable HDD 2TB,Storage,87.38,4,0,349.52,Completed,Cash
+O0226,2026-09-15,E016,Hanieh Hosseinzadeh,Ganja,Gaming Laptop X,Laptops,1563.98,1,0,1563.98,Completed,Online Transfer
+O0227,2026-08-18,E017,Amir Salehi,Ganja,Portable HDD 2TB,Storage,90.48,1,0,90.48,Completed,Card
+O0228,2026-09-12,E003,Mina Rahimi,Baku,External SSD 2TB,Storage,192.0,1,0.05,182.4,Completed,Online Transfer
+O0229,2026-08-09,E018,Raha Mohammadi,Lankaran,Laptop Pro 14,Laptops,1358.88,3,0.05,3872.81,Completed,Online Transfer
+O0230,2026-08-13,E001,Sara Ahmadi,Ganja,USB-C Hub,Accessories,43.89,1,0.1,39.5,Cancelled,Online Transfer
+O0231,2026-09-16,E002,Ali Karimi,Lankaran,Laptop Air 13,Laptops,1039.41,1,0,1039.41,Cancelled,Cash
+O0232,2026-08-12,E001,Sara Ahmadi,Sumqayit,USB-C Hub,Accessories,46.64,1,0,46.64,Completed,Cash
+O0233,2026-09-11,E017,Amir Salehi,Sumqayit,Portable HDD 2TB,Storage,88.79,2,0.05,168.7,Completed,Card
+O0234,2026-08-08,E002,Ali Karimi,Shaki,Laptop Stand,Accessories,37.36,1,0,37.36,Completed,Cash
+O0235,2026-08-19,E016,Hanieh Hosseinzadeh,Sumqayit,Android Tablet 12,Tablets,382.76,2,0.1,688.97,Cancelled,Card
+O0236,2026-08-26,E002,Ali Karimi,Sumqayit,Business Laptop 15,Laptops,1151.43,1,0,1151.43,Completed,Cash
+O0237,2026-08-16,E018,Raha Mohammadi,Baku,Webcam HD,Accessories,80.81,3,0.1,218.19,Completed,Cash
+O0238,2026-09-11,E003,Mina Rahimi,Lankaran,Noise Cancelling Headphones,Accessories,151.41,1,0,151.41,Completed,Online Transfer
+O0239,2026-09-02,E003,Mina Rahimi,Ganja,USB-C Hub,Accessories,45.72,1,0.1,41.15,Returned,Card
+O0240,2026-08-09,E016,Hanieh Hosseinzadeh,Lankaran,External SSD 1TB,Storage,113.87,2,0.1,204.97,Completed,Online Transfer
+O0241,2026-09-12,E001,Sara Ahmadi,Lankaran,Android Tablet 12,Tablets,408.5,2,0.1,735.3,Completed,Online Transfer
+O0242,2026-09-15,E017,Amir Salehi,Ganja,Noise Cancelling Headphones,Accessories,141.34,1,0.1,127.21,Completed,Online Transfer
+O0243,2026-09-04,E018,Raha Mohammadi,Shaki,Tablet Pro 11,Tablets,717.62,2,0,1435.24,Completed,Online Transfer
+O0244,2026-09-01,E002,Ali Karimi,Lankaran,Gaming Laptop X,Laptops,1661.17,1,0.1,1495.05,Completed,Cash
+O0245,2026-09-06,E001,Sara Ahmadi,Sumqayit,Laptop Air 13,Laptops,1000.47,1,0.05,950.45,Completed,Card
+O0246,2026-08-14,E001,Sara Ahmadi,Lankaran,Gaming Laptop X,Laptops,1511.03,1,0,1511.03,Completed,Card
+O0247,2026-08-19,E018,Raha Mohammadi,Sumqayit,Ultrawide Monitor 34,Monitors,670.9,1,0.05,637.35,Completed,Cash
+O0248,2026-08-29,E017,Amir Salehi,Shaki,4K Monitor 27,Monitors,342.48,2,0,684.96,Completed,Cash
+O0249,2026-08-08,E002,Ali Karimi,Baku,Tablet Air 10,Tablets,576.02,1,0,576.02,Completed,Cash
+O0250,2026-08-30,E016,Hanieh Hosseinzadeh,Ganja,Portable HDD 2TB,Storage,87.81,1,0,87.81,Completed,Cash
+O0251,2026-08-13,E001,Sara Ahmadi,Ganja,Business Laptop 15,Laptops,1131.31,1,0,1131.31,Completed,Card
+O0252,2026-08-07,E002,Ali Karimi,Lankaran,Laptop Air 13,Laptops,988.12,1,0,988.12,Processing,Cash
+O0253,2026-08-15,E017,Amir Salehi,Ganja,Portable HDD 2TB,Storage,85.79,2,0,171.58,Completed,Online Transfer
+O0254,2026-09-06,E002,Ali Karimi,Ganja,Laptop Stand,Accessories,39.14,2,0,78.28,Completed,Online Transfer
+O0255,2026-09-03,E017,Amir Salehi,Shaki,Wireless Mouse,Accessories,28.58,1,0,28.58,Completed,Online Transfer
+O0256,2026-08-28,E018,Raha Mohammadi,Mingachevir,Portable HDD 2TB,Storage,88.51,3,0.05,252.25,Returned,Cash
+O0257,2026-09-14,E017,Amir Salehi,Ganja,Ultrawide Monitor 34,Monitors,688.45,1,0.05,654.03,Completed,Card
+O0258,2026-08-20,E016,Hanieh Hosseinzadeh,Mingachevir,Tablet Pro 11,Tablets,770.45,3,0.1,2080.22,Completed,Card
+O0259,2026-08-25,E016,Hanieh Hosseinzadeh,Baku,Wireless Mouse,Accessories,28.07,1,0,28.07,Completed,Online Transfer
+O0260,2026-09-16,E001,Sara Ahmadi,Ganja,Android Tablet 12,Tablets,377.32,1,0,377.32,Completed,Online Transfer
+O0261,2026-09-16,E003,Mina Rahimi,Ganja,Portable HDD 2TB,Storage,85.78,1,0,85.78,Cancelled,Card
+O0262,2026-08-08,E016,Hanieh Hosseinzadeh,Mingachevir,External SSD 1TB,Storage,123.83,2,0,247.66,Completed,Cash
+O0263,2026-08-19,E003,Mina Rahimi,Lankaran,4K Monitor 27,Monitors,345.96,1,0.1,311.36,Completed,Cash
+O0264,2026-08-07,E003,Mina Rahimi,Baku,External SSD 1TB,Storage,121.83,1,0.05,115.74,Completed,Online Transfer
+O0265,2026-08-15,E018,Raha Mohammadi,Sumqayit,Tablet Pro 11,Tablets,705.4,1,0.05,670.13,Completed,Card
+O0266,2026-08-13,E017,Amir Salehi,Sumqayit,Laptop Stand,Accessories,37.65,1,0,37.65,Completed,Cash
+O0267,2026-09-16,E002,Ali Karimi,Lankaran,External SSD 1TB,Storage,117.89,2,0.1,212.2,Completed,Card
+O0268,2026-09-04,E018,Raha Mohammadi,Baku,Laptop Air 13,Laptops,996.64,2,0,1993.28,Completed,Cash
+O0269,2026-08-09,E016,Hanieh Hosseinzadeh,Baku,Wireless Mouse,Accessories,27.48,1,0,27.48,Completed,Online Transfer
+O0270,2026-09-10,E016,Hanieh Hosseinzadeh,Baku,External SSD 1TB,Storage,120.49,1,0,120.49,Completed,Online Transfer
+O0271,2026-09-16,E018,Raha Mohammadi,Ganja,Mechanical Keyboard,Accessories,88.9,1,0.05,84.45,Completed,Card
+O0272,2026-08-07,E003,Mina Rahimi,Lankaran,External SSD 2TB,Storage,190.32,1,0,190.32,Completed,Card
+O0273,2026-08-24,E003,Mina Rahimi,Shaki,4K Monitor 27,Monitors,345.68,1,0,345.68,Completed,Online Transfer
+O0274,2026-08-03,E018,Raha Mohammadi,Shaki,Gaming Laptop X,Laptops,1574.34,1,0,1574.34,Completed,Card
+O0275,2026-08-06,E001,Sara Ahmadi,Baku,External SSD 1TB,Storage,122.93,1,0.1,110.64,Completed,Card
+O0276,2026-08-14,E003,Mina Rahimi,Mingachevir,External SSD 1TB,Storage,115.41,3,0.1,311.61,Completed,Online Transfer
+O0277,2026-08-03,E017,Amir Salehi,Shaki,Tablet Air 10,Tablets,572.15,1,0,572.15,Returned,Cash
+O0278,2026-08-05,E016,Hanieh Hosseinzadeh,Sumqayit,USB-C Hub,Accessories,43.1,1,0.1,38.79,Completed,Cash
+O0279,2026-08-09,E016,Hanieh Hosseinzadeh,Baku,Gaming Laptop X,Laptops,1591.14,3,0,4773.42,Completed,Cash
+O0280,2026-09-08,E016,Hanieh Hosseinzadeh,Ganja,4K Monitor 27,Monitors,365.26,1,0.05,347.0,Completed,Cash
+O0281,2026-09-05,E001,Sara Ahmadi,Sumqayit,4K Monitor 27,Monitors,344.64,1,0.1,310.18,Completed,Card
+O0282,2026-09-15,E018,Raha Mohammadi,Shaki,Gaming Laptop X,Laptops,1517.49,1,0,1517.49,Completed,Cash
+O0283,2026-08-21,E003,Mina Rahimi,Baku,Noise Cancelling Headphones,Accessories,141.81,1,0,141.81,Completed,Card
+O0284,2026-08-06,E001,Sara Ahmadi,Baku,Tablet Air 10,Tablets,542.09,1,0,542.09,Completed,Cash
+O0285,2026-09-05,E001,Sara Ahmadi,Lankaran,Gaming Laptop X,Laptops,1608.05,2,0,3216.1,Processing,Cash
+O0286,2026-08-06,E002,Ali Karimi,Ganja,Portable HDD 2TB,Storage,92.52,3,0.05,263.68,Completed,Card
+O0287,2026-08-18,E003,Mina Rahimi,Sumqayit,USB-C Hub,Accessories,43.63,1,0.05,41.45,Completed,Cash
+O0288,2026-08-05,E017,Amir Salehi,Ganja,Noise Cancelling Headphones,Accessories,144.19,1,0.1,129.77,Completed,Cash
+O0289,2026-08-07,E017,Amir Salehi,Sumqayit,Tablet Pro 11,Tablets,729.16,3,0.05,2078.11,Completed,Cash
+O0290,2026-08-22,E002,Ali Karimi,Sumqayit,Ultrawide Monitor 34,Monitors,719.76,2,0,1439.52,Returned,Online Transfer
+O0291,2026-09-14,E003,Mina Rahimi,Shaki,Android Tablet 12,Tablets,396.08,1,0,396.08,Completed,Online Transfer
+O0292,2026-09-10,E003,Mina Rahimi,Sumqayit,External SSD 1TB,Storage,124.53,2,0.05,236.61,Completed,Card
+O0293,2026-09-06,E017,Amir Salehi,Shaki,Android Tablet 12,Tablets,401.05,1,0,401.05,Completed,Cash
+O0294,2026-09-15,E016,Hanieh Hosseinzadeh,Ganja,Android Tablet 12,Tablets,394.3,1,0.05,374.58,Completed,Online Transfer
+O0295,2026-08-20,E016,Hanieh Hosseinzadeh,Lankaran,Wireless Mouse,Accessories,28.07,1,0,28.07,Completed,Online Transfer
+O0296,2026-08-31,E016,Hanieh Hosseinzadeh,Baku,4K Monitor 27,Monitors,348.57,3,0.1,941.14,Processing,Cash
+O0297,2026-09-14,E002,Ali Karimi,Ganja,Portable HDD 2TB,Storage,89.47,3,0,268.41,Completed,Online Transfer
+O0298,2026-09-09,E003,Mina Rahimi,Baku,Laptop Air 13,Laptops,1000.95,1,0.05,950.9,Completed,Card
+O0299,2026-08-07,E018,Raha Mohammadi,Ganja,Mechanical Keyboard,Accessories,85.83,2,0.1,154.49,Completed,Cash
+O0300,2026-08-24,E002,Ali Karimi,Baku,4K Monitor 27,Monitors,345.84,1,0,345.84,Completed,Cash
+O0301,2026-08-07,E018,Raha Mohammadi,Sumqayit,USB-C Hub,Accessories,44.36,3,0,133.08,Completed,Cash
+O0302,2026-08-22,E001,Sara Ahmadi,Shaki,Webcam HD,Accessories,81.08,1,0.05,77.03,Completed,Online Transfer
+O0303,2026-08-29,E001,Sara Ahmadi,Shaki,Laptop Stand,Accessories,36.95,1,0,36.95,Completed,Card
+O0304,2026-09-13,E017,Amir Salehi,Sumqayit,Tablet Air 10,Tablets,572.22,2,0,1144.44,Completed,Online Transfer
+O0305,2026-08-28,E018,Raha Mohammadi,Lankaran,Webcam HD,Accessories,76.27,1,0.05,72.46,Completed,Card
+O0306,2026-09-09,E002,Ali Karimi,Sumqayit,Android Tablet 12,Tablets,394.79,1,0,394.79,Completed,Online Transfer
+O0307,2026-08-05,E002,Ali Karimi,Baku,Business Laptop 15,Laptops,1232.51,1,0.05,1170.88,Completed,Cash
+O0308,2026-09-12,E017,Amir Salehi,Mingachevir,External SSD 1TB,Storage,118.77,1,0.05,112.83,Completed,Card
+O0309,2026-08-23,E018,Raha Mohammadi,Mingachevir,Noise Cancelling Headphones,Accessories,153.92,1,0,153.92,Completed,Online Transfer
+O0310,2026-08-06,E003,Mina Rahimi,Mingachevir,Tablet Pro 11,Tablets,729.86,1,0,729.86,Completed,Cash
+O0311,2026-08-27,E017,Amir Salehi,Mingachevir,Tablet Pro 11,Tablets,751.42,1,0,751.42,Completed,Card
+O0312,2026-09-01,E001,Sara Ahmadi,Baku,USB-C Hub,Accessories,42.99,1,0,42.99,Completed,Cash
+O0313,2026-08-09,E016,Hanieh Hosseinzadeh,Shaki,Android Tablet 12,Tablets,410.84,3,0.05,1170.89,Completed,Cash
+O0314,2026-08-27,E002,Ali Karimi,Baku,Webcam HD,Accessories,78.51,1,0,78.51,Completed,Cash
+O0315,2026-08-15,E016,Hanieh Hosseinzadeh,Mingachevir,Portable HDD 2TB,Storage,86.49,2,0.1,155.68,Completed,Card
+O0316,2026-09-06,E017,Amir Salehi,Shaki,Business Laptop 15,Laptops,1162.39,1,0,1162.39,Returned,Cash
+O0317,2026-09-04,E002,Ali Karimi,Baku,Android Tablet 12,Tablets,418.5,1,0,418.5,Completed,Cash
+O0318,2026-08-17,E001,Sara Ahmadi,Ganja,Noise Cancelling Headphones,Accessories,154.19,1,0,154.19,Processing,Online Transfer
+O0319,2026-09-07,E017,Amir Salehi,Ganja,Noise Cancelling Headphones,Accessories,154.17,1,0,154.17,Completed,Card
+O0320,2026-08-04,E018,Raha Mohammadi,Sumqayit,Noise Cancelling Headphones,Accessories,148.78,1,0,148.78,Completed,Online Transfer
+O0321,2026-08-18,E016,Hanieh Hosseinzadeh,Sumqayit,External SSD 2TB,Storage,208.63,1,0,208.63,Completed,Online Transfer
+O0322,2026-08-09,E018,Raha Mohammadi,Lankaran,Tablet Pro 11,Tablets,724.63,2,0.05,1376.8,Completed,Card
+O0323,2026-09-06,E001,Sara Ahmadi,Mingachevir,Mechanical Keyboard,Accessories,89.81,1,0.05,85.32,Completed,Online Transfer
+O0324,2026-08-18,E018,Raha Mohammadi,Shaki,Noise Cancelling Headphones,Accessories,147.51,1,0,147.51,Completed,Cash
+O0325,2026-09-10,E016,Hanieh Hosseinzadeh,Lankaran,Noise Cancelling Headphones,Accessories,153.99,2,0,307.98,Completed,Cash
+O0326,2026-08-21,E016,Hanieh Hosseinzadeh,Shaki,USB-C Hub,Accessories,43.97,1,0,43.97,Completed,Card
+O0327,2026-08-03,E002,Ali Karimi,Lankaran,Business Laptop 15,Laptops,1209.65,2,0.05,2298.34,Completed,Card
+O0328,2026-08-28,E003,Mina Rahimi,Sumqayit,Android Tablet 12,Tablets,418.76,2,0,837.52,Cancelled,Card
+O0329,2026-09-11,E002,Ali Karimi,Lankaran,Noise Cancelling Headphones,Accessories,144.16,1,0,144.16,Cancelled,Online Transfer
+O0330,2026-08-20,E002,Ali Karimi,Baku,Wireless Mouse,Accessories,28.63,1,0.05,27.2,Completed,Card
+O0331,2026-09-07,E003,Mina Rahimi,Lankaran,Wireless Mouse,Accessories,28.92,1,0,28.92,Completed,Online Transfer
+O0332,2026-08-09,E001,Sara Ahmadi,Sumqayit,External SSD 1TB,Storage,112.79,1,0,112.79,Completed,Cash
+O0333,2026-08-20,E018,Raha Mohammadi,Baku,Tablet Pro 11,Tablets,735.59,2,0,1471.18,Processing,Online Transfer
+O0334,2026-09-06,E002,Ali Karimi,Lankaran,Laptop Pro 14,Laptops,1308.27,1,0,1308.27,Completed,Online Transfer
+O0335,2026-09-13,E001,Sara Ahmadi,Shaki,Webcam HD,Accessories,81.73,1,0.1,73.56,Completed,Cash
+O0336,2026-08-23,E001,Sara Ahmadi,Mingachevir,Ultrawide Monitor 34,Monitors,681.24,1,0,681.24,Completed,Online Transfer
+O0337,2026-09-08,E018,Raha Mohammadi,Ganja,USB-C Hub,Accessories,46.16,2,0,92.32,Processing,Online Transfer
+O0338,2026-09-08,E002,Ali Karimi,Lankaran,External SSD 2TB,Storage,191.19,1,0.05,181.63,Completed,Card
+O0339,2026-08-16,E001,Sara Ahmadi,Sumqayit,External SSD 1TB,Storage,120.21,1,0,120.21,Cancelled,Card
+O0340,2026-08-25,E001,Sara Ahmadi,Mingachevir,Ultrawide Monitor 34,Monitors,685.16,2,0,1370.32,Completed,Card
+O0341,2026-08-01,E016,Hanieh Hosseinzadeh,Sumqayit,Mechanical Keyboard,Accessories,85.77,3,0.1,231.58,Returned,Online Transfer
+O0342,2026-09-15,E018,Raha Mohammadi,Mingachevir,External SSD 2TB,Storage,203.85,1,0.1,183.47,Completed,Online Transfer
+O0343,2026-08-10,E002,Ali Karimi,Sumqayit,Mechanical Keyboard,Accessories,84.48,1,0.1,76.03,Returned,Cash
+O0344,2026-09-07,E002,Ali Karimi,Ganja,Gaming Laptop X,Laptops,1557.62,1,0,1557.62,Returned,Card
+O0345,2026-08-28,E018,Raha Mohammadi,Baku,Business Laptop 15,Laptops,1186.86,1,0,1186.86,Completed,Card
+O0346,2026-09-15,E017,Amir Salehi,Shaki,Tablet Pro 11,Tablets,761.86,1,0.1,685.67,Returned,Cash
+O0347,2026-08-11,E001,Sara Ahmadi,Sumqayit,Noise Cancelling Headphones,Accessories,142.14,2,0,284.28,Completed,Cash
+O0348,2026-08-18,E001,Sara Ahmadi,Lankaran,External SSD 2TB,Storage,188.46,2,0.05,358.07,Completed,Online Transfer
+O0349,2026-08-24,E003,Mina Rahimi,Mingachevir,Laptop Air 13,Laptops,993.96,1,0,993.96,Completed,Online Transfer
+O0350,2026-09-16,E001,Sara Ahmadi,Baku,Business Laptop 15,Laptops,1157.18,1,0,1157.18,Completed,Cash
+O0351,2026-08-24,E001,Sara Ahmadi,Shaki,4K Monitor 27,Monitors,363.39,1,0.1,327.05,Returned,Online Transfer
+O0352,2026-09-11,E003,Mina Rahimi,Baku,Ultrawide Monitor 34,Monitors,674.32,1,0,674.32,Cancelled,Online Transfer
+O0353,2026-08-24,E017,Amir Salehi,Lankaran,Business Laptop 15,Laptops,1193.27,2,0,2386.54,Completed,Card
+O0354,2026-08-30,E016,Hanieh Hosseinzadeh,Sumqayit,USB-C Hub,Accessories,46.13,1,0,46.13,Completed,Card
+O0355,2026-08-19,E016,Hanieh Hosseinzadeh,Shaki,USB-C Hub,Accessories,45.96,1,0,45.96,Completed,Online Transfer
+O0356,2026-08-16,E003,Mina Rahimi,Sumqayit,Tablet Pro 11,Tablets,704.59,1,0,704.59,Completed,Card
+O0357,2026-09-12,E017,Amir Salehi,Lankaran,4K Monitor 27,Monitors,360.65,2,0,721.3,Completed,Cash
+O0358,2026-08-04,E017,Amir Salehi,Shaki,Tablet Pro 11,Tablets,762.69,1,0.05,724.56,Returned,Cash
+O0359,2026-08-30,E016,Hanieh Hosseinzadeh,Mingachevir,Gaming Laptop X,Laptops,1605.21,1,0,1605.21,Completed,Online Transfer
+O0360,2026-08-04,E003,Mina Rahimi,Shaki,Ultrawide Monitor 34,Monitors,708.0,1,0.05,672.6,Completed,Online Transfer
+O0361,2026-08-21,E002,Ali Karimi,Baku,Laptop Stand,Accessories,38.6,1,0.1,34.74,Returned,Card
+O0362,2026-08-07,E003,Mina Rahimi,Lankaran,Tablet Air 10,Tablets,543.21,1,0,543.21,Completed,Cash
+O0363,2026-08-30,E003,Mina Rahimi,Baku,Mechanical Keyboard,Accessories,92.01,1,0.1,82.81,Completed,Card
+O0364,2026-08-21,E017,Amir Salehi,Shaki,Tablet Pro 11,Tablets,711.58,1,0,711.58,Completed,Cash
+O0365,2026-08-17,E018,Raha Mohammadi,Ganja,Tablet Air 10,Tablets,517.94,1,0.1,466.15,Completed,Card
+O0366,2026-08-30,E002,Ali Karimi,Ganja,Business Laptop 15,Laptops,1233.09,1,0,1233.09,Completed,Cash
+O0367,2026-08-24,E001,Sara Ahmadi,Ganja,Gaming Laptop X,Laptops,1605.48,1,0,1605.48,Completed,Online Transfer
+O0368,2026-08-29,E001,Sara Ahmadi,Lankaran,Tablet Pro 11,Tablets,711.64,2,0,1423.28,Completed,Card
+O0369,2026-08-11,E018,Raha Mohammadi,Ganja,Ultrawide Monitor 34,Monitors,720.24,1,0.05,684.23,Completed,Cash
+O0370,2026-08-14,E017,Amir Salehi,Mingachevir,Tablet Air 10,Tablets,532.67,1,0.1,479.4,Completed,Card
+O0371,2026-09-11,E001,Sara Ahmadi,Lankaran,USB-C Hub,Accessories,44.77,2,0,89.54,Completed,Card
+O0372,2026-08-27,E017,Amir Salehi,Lankaran,Android Tablet 12,Tablets,403.27,2,0,806.54,Completed,Online Transfer
+O0373,2026-08-23,E017,Amir Salehi,Lankaran,External SSD 1TB,Storage,118.99,1,0,118.99,Cancelled,Cash
+O0374,2026-08-12,E003,Mina Rahimi,Lankaran,Laptop Pro 14,Laptops,1266.62,1,0,1266.62,Cancelled,Online Transfer
+O0375,2026-08-23,E003,Mina Rahimi,Shaki,Wireless Mouse,Accessories,30.37,1,0.1,27.33,Completed,Card
+O0376,2026-08-15,E002,Ali Karimi,Mingachevir,4K Monitor 27,Monitors,341.68,2,0,683.36,Processing,Cash
+O0377,2026-09-14,E017,Amir Salehi,Ganja,Noise Cancelling Headphones,Accessories,155.04,1,0.1,139.54,Completed,Online Transfer
+O0378,2026-08-13,E001,Sara Ahmadi,Mingachevir,External SSD 1TB,Storage,118.96,1,0,118.96,Completed,Card
+O0379,2026-08-02,E002,Ali Karimi,Shaki,External SSD 2TB,Storage,197.52,1,0,197.52,Completed,Card
+O0380,2026-08-21,E001,Sara Ahmadi,Sumqayit,Laptop Air 13,Laptops,941.47,1,0.1,847.32,Cancelled,Card
+O0381,2026-08-24,E002,Ali Karimi,Shaki,4K Monitor 27,Monitors,350.56,1,0.05,333.03,Completed,Cash
+O0382,2026-09-11,E017,Amir Salehi,Ganja,Laptop Stand,Accessories,37.41,3,0,112.23,Completed,Online Transfer
+O0383,2026-09-07,E002,Ali Karimi,Shaki,Tablet Air 10,Tablets,538.91,2,0,1077.82,Completed,Online Transfer
+O0384,2026-08-26,E017,Amir Salehi,Shaki,Laptop Air 13,Laptops,959.07,1,0,959.07,Completed,Online Transfer
+O0385,2026-08-07,E003,Mina Rahimi,Shaki,External SSD 1TB,Storage,113.7,2,0,227.4,Completed,Card
+O0386,2026-09-15,E001,Sara Ahmadi,Sumqayit,Laptop Stand,Accessories,38.58,1,0,38.58,Completed,Card
+O0387,2026-09-16,E002,Ali Karimi,Lankaran,Laptop Pro 14,Laptops,1227.94,1,0.05,1166.54,Completed,Cash
+O0388,2026-08-23,E017,Amir Salehi,Ganja,Portable HDD 2TB,Storage,87.33,2,0,174.66,Completed,Cash
+O0389,2026-08-05,E001,Sara Ahmadi,Ganja,Laptop Air 13,Laptops,971.47,1,0,971.47,Returned,Cash
+O0390,2026-08-11,E017,Amir Salehi,Lankaran,Gaming Laptop X,Laptops,1599.28,2,0.1,2878.7,Completed,Online Transfer
+O0391,2026-08-02,E002,Ali Karimi,Baku,Ultrawide Monitor 34,Monitors,729.52,1,0,729.52,Cancelled,Cash
+O0392,2026-08-14,E017,Amir Salehi,Shaki,Android Tablet 12,Tablets,393.02,1,0,393.02,Returned,Cash
+O0393,2026-08-20,E016,Hanieh Hosseinzadeh,Baku,Wireless Mouse,Accessories,27.57,1,0,27.57,Completed,Cash
+O0394,2026-08-01,E016,Hanieh Hosseinzadeh,Baku,Ultrawide Monitor 34,Monitors,663.8,2,0,1327.6,Completed,Card
+O0395,2026-08-14,E001,Sara Ahmadi,Lankaran,Tablet Air 10,Tablets,554.6,3,0,1663.8,Completed,Cash
+O0396,2026-09-01,E016,Hanieh Hosseinzadeh,Ganja,Mechanical Keyboard,Accessories,84.55,1,0,84.55,Completed,Cash
+O0397,2026-08-03,E017,Amir Salehi,Ganja,Mechanical Keyboard,Accessories,87.97,1,0,87.97,Completed,Online Transfer
+O0398,2026-09-12,E017,Amir Salehi,Mingachevir,Business Laptop 15,Laptops,1138.36,1,0,1138.36,Completed,Card
+O0399,2026-08-25,E016,Hanieh Hosseinzadeh,Ganja,External SSD 2TB,Storage,196.22,1,0.1,176.6,Processing,Cash
+O0400,2026-08-20,E017,Amir Salehi,Mingachevir,Gaming Laptop X,Laptops,1572.5,2,0.1,2830.5,Completed,Online Transfer
+O0401,2026-09-09,E002,Ali Karimi,Ganja,Tablet Pro 11,Tablets,713.97,2,0,1427.94,Completed,Card
+O0402,2026-08-03,E018,Raha Mohammadi,Mingachevir,Ultrawide Monitor 34,Monitors,663.09,2,0,1326.18,Completed,Cash
+O0403,2026-08-21,E003,Mina Rahimi,Lankaran,Gaming Laptop X,Laptops,1518.37,1,0.1,1366.53,Completed,Card
+O0404,2026-09-14,E017,Amir Salehi,Mingachevir,External SSD 2TB,Storage,204.17,1,0.1,183.75,Completed,Card
+O0405,2026-08-07,E016,Hanieh Hosseinzadeh,Lankaran,Business Laptop 15,Laptops,1230.69,2,0,2461.38,Cancelled,Online Transfer
+O0406,2026-09-01,E017,Amir Salehi,Baku,External SSD 1TB,Storage,112.35,1,0.05,106.73,Completed,Cash
+O0407,2026-08-22,E003,Mina Rahimi,Sumqayit,Wireless Mouse,Accessories,27.42,1,0,27.42,Completed,Cash
+O0408,2026-08-20,E002,Ali Karimi,Sumqayit,Mechanical Keyboard,Accessories,91.91,2,0,183.82,Completed,Online Transfer
+O0409,2026-08-29,E002,Ali Karimi,Ganja,Laptop Stand,Accessories,37.82,1,0.05,35.93,Completed,Cash
+O0410,2026-09-01,E002,Ali Karimi,Sumqayit,External SSD 2TB,Storage,206.04,2,0,412.08,Completed,Online Transfer
+O0411,2026-09-02,E001,Sara Ahmadi,Ganja,4K Monitor 27,Monitors,333.27,2,0,666.54,Processing,Card
+O0412,2026-08-04,E002,Ali Karimi,Sumqayit,Wireless Mouse,Accessories,27.37,1,0,27.37,Completed,Cash
+O0413,2026-09-02,E003,Mina Rahimi,Mingachevir,4K Monitor 27,Monitors,352.45,1,0.05,334.83,Completed,Cash
+O0414,2026-08-12,E003,Mina Rahimi,Sumqayit,External SSD 1TB,Storage,119.54,1,0,119.54,Completed,Card
+O0415,2026-08-25,E002,Ali Karimi,Shaki,Laptop Air 13,Laptops,956.96,1,0,956.96,Returned,Card
+O0416,2026-08-18,E018,Raha Mohammadi,Lankaran,Ultrawide Monitor 34,Monitors,696.53,2,0,1393.06,Returned,Card
+O0417,2026-09-11,E003,Mina Rahimi,Lankaran,Tablet Air 10,Tablets,552.36,1,0,552.36,Completed,Cash
+O0418,2026-08-23,E017,Amir Salehi,Mingachevir,Webcam HD,Accessories,76.45,1,0.05,72.63,Completed,Card
+O0419,2026-08-01,E017,Amir Salehi,Mingachevir,External SSD 2TB,Storage,208.94,3,0.1,564.14,Completed,Cash
+O0420,2026-08-20,E003,Mina Rahimi,Sumqayit,Business Laptop 15,Laptops,1190.6,1,0,1190.6,Completed,Online Transfer
+O0421,2026-09-15,E001,Sara Ahmadi,Lankaran,USB-C Hub,Accessories,43.23,1,0.1,38.91,Completed,Online Transfer
+O0422,2026-08-21,E003,Mina Rahimi,Lankaran,Tablet Pro 11,Tablets,763.49,1,0.05,725.32,Returned,Cash
+O0423,2026-08-03,E018,Raha Mohammadi,Shaki,Android Tablet 12,Tablets,390.12,2,0.05,741.23,Completed,Cash
+O0424,2026-09-02,E002,Ali Karimi,Baku,USB-C Hub,Accessories,46.48,2,0,92.96,Processing,Cash
+O0425,2026-08-09,E018,Raha Mohammadi,Shaki,Mechanical Keyboard,Accessories,90.76,1,0,90.76,Cancelled,Card
+O0426,2026-08-15,E003,Mina Rahimi,Sumqayit,Noise Cancelling Headphones,Accessories,143.72,2,0,287.44,Completed,Online Transfer
+O0427,2026-08-19,E017,Amir Salehi,Mingachevir,Webcam HD,Accessories,81.66,1,0.1,73.49,Processing,Card
+O0428,2026-08-31,E003,Mina Rahimi,Baku,Android Tablet 12,Tablets,397.03,2,0.05,754.36,Completed,Card
+O0429,2026-08-09,E016,Hanieh Hosseinzadeh,Sumqayit,Android Tablet 12,Tablets,390.1,4,0,1560.4,Cancelled,Online Transfer
+O0430,2026-08-12,E018,Raha Mohammadi,Baku,Gaming Laptop X,Laptops,1588.82,1,0,1588.82,Completed,Cash
+O0431,2026-08-18,E016,Hanieh Hosseinzadeh,Ganja,Android Tablet 12,Tablets,408.47,1,0,408.47,Completed,Online Transfer
+O0432,2026-08-28,E001,Sara Ahmadi,Ganja,Ultrawide Monitor 34,Monitors,688.08,3,0.1,1857.82,Completed,Online Transfer
+O0433,2026-08-24,E001,Sara Ahmadi,Shaki,Laptop Pro 14,Laptops,1348.52,2,0,2697.04,Completed,Online Transfer
+O0434,2026-08-16,E016,Hanieh Hosseinzadeh,Mingachevir,Wireless Mouse,Accessories,29.47,1,0.1,26.52,Completed,Cash
+O0435,2026-08-11,E018,Raha Mohammadi,Mingachevir,Gaming Laptop X,Laptops,1647.97,1,0.1,1483.17,Completed,Online Transfer
+O0436,2026-08-22,E016,Hanieh Hosseinzadeh,Ganja,Ultrawide Monitor 34,Monitors,725.34,4,0,2901.36,Completed,Card
+O0437,2026-08-26,E018,Raha Mohammadi,Mingachevir,Laptop Pro 14,Laptops,1253.7,2,0,2507.4,Completed,Online Transfer
+O0438,2026-08-11,E018,Raha Mohammadi,Mingachevir,Business Laptop 15,Laptops,1175.41,1,0,1175.41,Completed,Online Transfer
+O0439,2026-08-04,E018,Raha Mohammadi,Lankaran,Laptop Air 13,Laptops,1011.8,1,0,1011.8,Completed,Cash
+O0440,2026-08-25,E018,Raha Mohammadi,Sumqayit,Business Laptop 15,Laptops,1199.24,1,0,1199.24,Completed,Cash
+O0441,2026-09-12,E002,Ali Karimi,Baku,Business Laptop 15,Laptops,1214.43,1,0.05,1153.71,Completed,Online Transfer
+O0442,2026-09-16,E017,Amir Salehi,Sumqayit,Business Laptop 15,Laptops,1164.35,2,0,2328.7,Completed,Online Transfer
+O0443,2026-08-13,E016,Hanieh Hosseinzadeh,Shaki,Noise Cancelling Headphones,Accessories,151.59,1,0,151.59,Completed,Cash
+O0444,2026-08-22,E017,Amir Salehi,Ganja,Wireless Mouse,Accessories,27.27,1,0.05,25.91,Cancelled,Card
+O0445,2026-09-02,E002,Ali Karimi,Sumqayit,Gaming Laptop X,Laptops,1630.33,1,0.05,1548.81,Completed,Cash
+O0446,2026-08-30,E003,Mina Rahimi,Shaki,Laptop Air 13,Laptops,950.03,1,0,950.03,Completed,Cash
+O0447,2026-08-28,E002,Ali Karimi,Sumqayit,Business Laptop 15,Laptops,1139.59,2,0,2279.18,Completed,Cash
+O0448,2026-08-29,E002,Ali Karimi,Lankaran,Mechanical Keyboard,Accessories,92.26,1,0,92.26,Completed,Cash
+O0449,2026-08-30,E016,Hanieh Hosseinzadeh,Baku,Mechanical Keyboard,Accessories,91.84,2,0,183.68,Completed,Card
+O0450,2026-09-14,E017,Amir Salehi,Mingachevir,Laptop Air 13,Laptops,1046.92,2,0.05,1989.15,Completed,Online Transfer
+O0451,2026-08-29,E018,Raha Mohammadi,Lankaran,Tablet Air 10,Tablets,552.98,2,0,1105.96,Completed,Cash
+O0452,2026-08-08,E001,Sara Ahmadi,Shaki,Ultrawide Monitor 34,Monitors,690.94,1,0.1,621.85,Completed,Online Transfer
+O0453,2026-09-16,E017,Amir Salehi,Baku,Wireless Mouse,Accessories,30.38,1,0.1,27.34,Completed,Cash
+O0454,2026-09-12,E002,Ali Karimi,Mingachevir,Wireless Mouse,Accessories,28.8,1,0.1,25.92,Completed,Card
+O0455,2026-08-01,E002,Ali Karimi,Lankaran,Tablet Air 10,Tablets,546.59,1,0,546.59,Completed,Cash
+O0456,2026-08-16,E018,Raha Mohammadi,Lankaran,Laptop Stand,Accessories,40.82,1,0.05,38.78,Completed,Card
+O0457,2026-08-06,E016,Hanieh Hosseinzadeh,Sumqayit,Webcam HD,Accessories,78.12,1,0.05,74.21,Completed,Card
+O0458,2026-09-01,E001,Sara Ahmadi,Mingachevir,Laptop Pro 14,Laptops,1235.73,1,0,1235.73,Completed,Online Transfer
+O0459,2026-09-10,E016,Hanieh Hosseinzadeh,Sumqayit,USB-C Hub,Accessories,46.71,1,0,46.71,Completed,Card
+O0460,2026-08-15,E018,Raha Mohammadi,Shaki,Webcam HD,Accessories,77.14,2,0,154.28,Completed,Cash
+O0461,2026-08-08,E018,Raha Mohammadi,Mingachevir,Business Laptop 15,Laptops,1227.21,1,0,1227.21,Completed,Online Transfer
+O0462,2026-08-24,E018,Raha Mohammadi,Baku,Business Laptop 15,Laptops,1133.1,1,0.05,1076.44,Completed,Cash
+O0463,2026-09-09,E016,Hanieh Hosseinzadeh,Shaki,Android Tablet 12,Tablets,383.29,3,0,1149.87,Completed,Cash
+O0464,2026-08-07,E001,Sara Ahmadi,Lankaran,Ultrawide Monitor 34,Monitors,660.64,1,0.05,627.61,Completed,Online Transfer
+O0465,2026-09-07,E001,Sara Ahmadi,Lankaran,External SSD 2TB,Storage,190.01,1,0.1,171.01,Completed,Online Transfer
+O0466,2026-08-31,E002,Ali Karimi,Baku,External SSD 2TB,Storage,204.16,3,0,612.48,Completed,Cash
+O0467,2026-09-12,E018,Raha Mohammadi,Sumqayit,Laptop Stand,Accessories,38.82,1,0,38.82,Returned,Cash
+O0468,2026-08-22,E018,Raha Mohammadi,Sumqayit,USB-C Hub,Accessories,44.54,1,0.1,40.09,Completed,Online Transfer
+O0469,2026-09-05,E002,Ali Karimi,Mingachevir,Laptop Stand,Accessories,39.71,3,0,119.13,Completed,Online Transfer
+O0470,2026-08-19,E002,Ali Karimi,Mingachevir,Noise Cancelling Headphones,Accessories,155.16,1,0.1,139.64,Completed,Online Transfer
+O0471,2026-09-10,E017,Amir Salehi,Shaki,Laptop Stand,Accessories,39.71,2,0.1,71.48,Completed,Online Transfer
+O0472,2026-08-27,E017,Amir Salehi,Baku,Portable HDD 2TB,Storage,86.46,2,0,172.92,Completed,Cash
+O0473,2026-08-10,E002,Ali Karimi,Shaki,Laptop Air 13,Laptops,1012.71,1,0,1012.71,Completed,Cash
+O0474,2026-08-10,E001,Sara Ahmadi,Lankaran,Laptop Air 13,Laptops,1014.95,1,0,1014.95,Completed,Card
+O0475,2026-09-09,E002,Ali Karimi,Shaki,Portable HDD 2TB,Storage,92.13,2,0.1,165.83,Completed,Cash
+O0476,2026-09-14,E018,Raha Mohammadi,Mingachevir,Laptop Air 13,Laptops,1040.87,1,0,1040.87,Returned,Card
+O0477,2026-08-01,E016,Hanieh Hosseinzadeh,Shaki,Mechanical Keyboard,Accessories,85.65,2,0,171.3,Processing,Online Transfer
+O0478,2026-09-15,E018,Raha Mohammadi,Sumqayit,Noise Cancelling Headphones,Accessories,152.44,1,0,152.44,Completed,Cash
+O0479,2026-08-12,E016,Hanieh Hosseinzadeh,Lankaran,Gaming Laptop X,Laptops,1535.95,1,0,1535.95,Completed,Cash
+O0480,2026-09-05,E003,Mina Rahimi,Shaki,Mechanical Keyboard,Accessories,84.93,1,0.05,80.68,Completed,Card
+O0481,2026-08-03,E018,Raha Mohammadi,Shaki,Tablet Pro 11,Tablets,780.57,1,0.1,702.51,Completed,Cash
+O0482,2026-09-01,E002,Ali Karimi,Mingachevir,Portable HDD 2TB,Storage,87.17,2,0,174.34,Completed,Card
+O0483,2026-09-02,E002,Ali Karimi,Shaki,Tablet Air 10,Tablets,541.18,1,0,541.18,Completed,Cash
+O0484,2026-08-22,E016,Hanieh Hosseinzadeh,Shaki,Noise Cancelling Headphones,Accessories,144.87,3,0.1,391.15,Completed,Card
+O0485,2026-08-08,E017,Amir Salehi,Baku,Noise Cancelling Headphones,Accessories,147.36,2,0,294.72,Completed,Online Transfer
+O0486,2026-08-21,E017,Amir Salehi,Baku,4K Monitor 27,Monitors,363.22,3,0,1089.66,Completed,Online Transfer
+O0487,2026-08-24,E018,Raha Mohammadi,Sumqayit,External SSD 2TB,Storage,204.63,1,0,204.63,Completed,Online Transfer
+O0488,2026-08-06,E001,Sara Ahmadi,Ganja,Business Laptop 15,Laptops,1149.14,3,0,3447.42,Completed,Online Transfer
+O0489,2026-09-10,E017,Amir Salehi,Shaki,Android Tablet 12,Tablets,413.02,1,0.05,392.37,Completed,Card
+O0490,2026-09-13,E001,Sara Ahmadi,Ganja,Tablet Pro 11,Tablets,706.02,2,0,1412.04,Completed,Cash
+O0491,2026-09-05,E016,Hanieh Hosseinzadeh,Shaki,Gaming Laptop X,Laptops,1604.19,1,0.05,1523.98,Completed,Cash
+O0492,2026-08-28,E018,Raha Mohammadi,Baku,Laptop Stand,Accessories,36.73,1,0.1,33.06,Completed,Online Transfer
+O0493,2026-09-07,E001,Sara Ahmadi,Shaki,Laptop Air 13,Laptops,1016.08,1,0,1016.08,Returned,Cash
+O0494,2026-09-08,E018,Raha Mohammadi,Lankaran,Gaming Laptop X,Laptops,1552.58,3,0,4657.74,Completed,Card
+O0495,2026-09-04,E017,Amir Salehi,Shaki,Wireless Mouse,Accessories,27.7,1,0,27.7,Completed,Card
+O0496,2026-08-20,E002,Ali Karimi,Baku,Noise Cancelling Headphones,Accessories,155.75,1,0,155.75,Processing,Card
+O0497,2026-09-06,E018,Raha Mohammadi,Ganja,4K Monitor 27,Monitors,348.68,3,0,1046.04,Completed,Cash
+O0498,2026-09-11,E003,Mina Rahimi,Baku,External SSD 2TB,Storage,190.18,1,0,190.18,Completed,Card
+O0499,2026-09-12,E016,Hanieh Hosseinzadeh,Baku,Laptop Air 13,Laptops,1032.62,3,0.1,2788.07,Returned,Cash
+O0500,2026-09-12,E003,Mina Rahimi,Ganja,Gaming Laptop X,Laptops,1547.15,1,0,1547.15,Completed,Online Transfer

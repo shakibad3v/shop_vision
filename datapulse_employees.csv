@@ -1,0 +1,26 @@
+﻿employee_id,employee_name,role,department,monthly_salary_usd,hours_per_day,work_days_per_month,monthly_hours,join_date,performance_score,status
+E001,Sara Ahmadi,Sales Specialist,Sales,1650,7,20,140,2024-07-26,78.4,Active
+E002,Ali Karimi,Senior Sales Specialist,Sales,2150,7,23,161,2023-07-07,87.4,Active
+E003,Mina Rahimi,Sales Manager,Sales,2800,7,21,147,2024-04-30,85.1,Active
+E004,Reza Moradi,Customer Support,Support,1400,7.5,23,172.5,2025-05-18,77.7,On Leave
+E005,Nima Hosseini,Support Specialist,Support,1450,9,20,180,2023-12-02,90.2,Active
+E006,Yasmin Jafari,Warehouse Specialist,Operations,1350,7.5,21,157.5,2024-11-29,74.7,Active
+E007,Arman Nouri,Warehouse Manager,Operations,2200,8,22,176,2026-05-30,78.9,Active
+E008,Shirin Kazemi,Marketing Specialist,Marketing,1850,8,23,184,2023-09-22,97.3,Active
+E009,Sina Shahriari,Digital Marketing Specialist,Marketing,1800,8,22,176,2025-01-19,87.0,Active
+E010,Parisa Ebrahimi,Accountant,Finance,1700,8.5,21,178.5,2024-08-24,97.6,Active
+E011,Mehdi Fathi,Financial Analyst,Finance,2100,8,22,176,2025-07-26,88.5,Active
+E012,Ava Yousefi,HR Specialist,HR,1500,8,22,176,2024-03-14,89.4,Active
+E013,Pouya Mousavi,HR Manager,HR,2600,8.5,21,178.5,2026-01-07,91.0,Active
+E014,Negin Rostami,IT Support,IT,1750,8,22,176,2026-02-23,77.7,Active
+E015,Kian Sadeghi,Software Developer,IT,2500,7.5,20,150.0,2024-10-17,82.4,Active
+E016,Hanieh Hosseinzadeh,Sales Specialist,Sales,1400,8,22,176,2024-03-20,89.0,Active
+E017,Amir Salehi,Senior Sales Specialist,Sales,2150,8,21,168,2024-07-05,75.6,On Leave
+E018,Raha Mohammadi,Sales Manager,Sales,3000,8,23,184,2025-06-05,95.3,Active
+E019,Morteza Amini,Customer Support,Support,1300,7.5,21,157.5,2025-11-18,84.8,Active
+E020,Tara Hashemi,Support Specialist,Support,1350,7.5,21,157.5,2025-05-23,87.5,Active
+E021,Saman Rezvani,Warehouse Specialist,Operations,1400,8,22,176,2025-12-28,78.5,On Leave
+E022,Elina Bahrami,Warehouse Manager,Operations,2200,8.5,20,170.0,2026-01-13,91.5,Active
+E023,Farhad Ghasemi,Marketing Specialist,Marketing,1600,8,22,176,2023-11-29,83.8,Active
+E024,Sahar Khalili,Digital Marketing Specialist,Marketing,2000,9,21,189,2025-11-14,95.7,Active
+E025,Ehsan Soleimani,Accountant,Finance,1950,8,23,184,2024-02-21,76.0,Active
