@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ShopVision | تحلیل داده</title>
 
-    <link rel="stylesheet"href="style.css">
+    <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
@@ -26,25 +26,16 @@
 
         <nav>
 
-            <a href="#dashboard"
-               class="active">
-
+            <a href="#dashboard" class="active">
                 داشبورد
-
             </a>
-
 
             <a href="#sales">
-
                 داده‌های فروش
-
             </a>
 
-
             <a href="#employees">
-
                 داده‌های کارکنان
-
             </a>
 
         </nav>
@@ -68,8 +59,7 @@
 
     <!-- ================= MAIN ================= -->
 
-    <main class="main"
-          id="dashboard">
+    <main class="main" id="dashboard">
 
 
         <!-- Header -->
@@ -90,9 +80,7 @@
 
 
             <button class="date-button">
-
                 شهریور ۱۴۰۵
-
             </button>
 
         </header>
@@ -131,12 +119,12 @@
                         کل درآمد
                     </span>
 
-                    <h3>
-                        ۸۵,۴۰۰ $
+                    <h3 id="stat-revenue">
+                        —
                     </h3>
 
-                    <small class="positive">
-                        ↑ ۱۲.۴٪
+                    <small id="stat-revenue-sub">
+                        در حال بارگذاری...
                     </small>
 
                 </div>
@@ -151,12 +139,12 @@
                         میانگین قیمت واحد
                     </span>
 
-                    <h3>
-                        ۶۸.۳۲ $
+                    <h3 id="stat-avg-price">
+                        —
                     </h3>
 
-                    <small class="positive">
-                        ↑ ۵.۸٪
+                    <small>
+                        میانگین کل محصولات
                     </small>
 
                 </div>
@@ -171,12 +159,12 @@
                         تعداد کل
                     </span>
 
-                    <h3>
-                        ۱,۲۵۰
+                    <h3 id="stat-quantity">
+                        —
                     </h3>
 
-                    <small class="positive">
-                        ↑ ۸.۲٪
+                    <small id="stat-quantity-sub">
+                        در حال بارگذاری...
                     </small>
 
                 </div>
@@ -211,82 +199,7 @@
                     </div>
 
 
-                    <div class="payment-chart">
-
-
-                        <div class="payment-row">
-
-                            <div class="payment-info">
-
-                                <span>
-                                    کارت بانکی
-                                </span>
-
-                                <strong>
-                                    ۴۲,۷۰۰ $
-                                </strong>
-
-                            </div>
-
-
-                            <div class="bar">
-
-                                <div style="width: 82%;"></div>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <div class="payment-row">
-
-                            <div class="payment-info">
-
-                                <span>
-                                    نقدی
-                                </span>
-
-                                <strong>
-                                    ۲۵,۶۰۰ $
-                                </strong>
-
-                            </div>
-
-
-                            <div class="bar">
-
-                                <div style="width: 60%;"></div>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <div class="payment-row">
-
-                            <div class="payment-info">
-
-                                <span>
-                                    آنلاین
-                                </span>
-
-                                <strong>
-                                    ۱۷,۱۰۰ $
-                                </strong>
-
-                            </div>
-
-
-                            <div class="bar">
-
-                                <div style="width: 40%;"></div>
-
-                            </div>
-
-                        </div>
-
+                    <div class="payment-chart" id="payment-chart">
 
                     </div>
 
@@ -317,63 +230,7 @@
 
 
 
-                    <div class="category-list">
-
-
-                        <div class="category-item">
-
-                            <span>
-                                لوازم الکترونیکی
-                            </span>
-
-                            <strong>
-                                ۳۱,۵۰۰ $
-                            </strong>
-
-                        </div>
-
-
-
-                        <div class="category-item">
-
-                            <span>
-                                پوشاک
-                            </span>
-
-                            <strong>
-                                ۲۲,۴۰۰ $
-                            </strong>
-
-                        </div>
-
-
-
-                        <div class="category-item">
-
-                            <span>
-                                مواد غذایی
-                            </span>
-
-                            <strong>
-                                ۱۸,۷۰۰ $
-                            </strong>
-
-                        </div>
-
-
-
-                        <div class="category-item">
-
-                            <span>
-                                لوازم جانبی
-                            </span>
-
-                            <strong>
-                                ۱۲,۸۰۰ $
-                            </strong>
-
-                        </div>
-
+                    <div class="category-list" id="category-list">
 
                     </div>
 
@@ -397,7 +254,7 @@
                         </h3>
 
                         <p>
-                            نمونه اطلاعات ثبت‌شده فروش
+                            بزرگ‌ترین فروش‌های ثبت‌شده
                         </p>
 
                     </div>
@@ -420,7 +277,8 @@
                                     محصول
                                 </th>
 
-                                <th>دسته‌بندی
+                                <th>
+                                    دسته‌بندی
                                 </th>
 
                                 <th>
@@ -445,127 +303,7 @@
 
 
 
-                        <tbody>
-
-
-                            <tr>
-
-                                <td>
-                                    لپ‌تاپ
-                                </td>
-
-                                <td>
-                                    الکترونیکی
-                                </td>
-
-                                <td>
-                                    ۱۲۰
-                                </td>
-
-                                <td>
-                                    ۷۰۰ $
-                                </td>
-
-                                <td>
-                                    کارت
-                                </td>
-
-                                <td>
-                                    ۸۴,۰۰۰ $
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    هدفون
-                                </td>
-
-                                <td>
-                                    الکترونیکی
-                                </td>
-
-                                <td>
-                                    ۲۵۰
-                                </td>
-
-                                <td>
-                                    ۸۰ $
-                                </td>
-
-                                <td>
-                                    آنلاین
-                                </td>
-
-                                <td>
-                                    ۲۰,۰۰۰ $
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    تی‌شرت
-                                </td>
-
-                                <td>
-                                    پوشاک
-                                </td>
-
-                                <td>
-                                    ۳۰۰
-                                </td>
-
-                                <td>
-                                    ۲۵ $
-                                </td>
-
-                                <td>
-                                    نقدی
-                                </td>
-
-                                <td>
-                                    ۷,۵۰۰ $
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    کیبورد
-                                </td>
-
-                                <td>
-                                    لوازم جانبی
-                                </td>
-
-                                <td>
-                                    ۱۸۰
-                                </td>
-
-                                <td>
-                                    ۴۵ $
-                                </td>
-
-                                <td>
-                                    کارت
-                                </td>
-
-                                <td>
-                                    ۸,۱۰۰ $
-                                </td>
-
-                            </tr>
-
+                        <tbody id="sales-tbody">
 
                         </tbody>
 
@@ -587,7 +325,8 @@
 
             <div class="section-heading employee-heading">
 
-                <h2>داده‌های کارکنان
+                <h2>
+                    داده‌های کارکنان
                 </h2>
 
                 <p>
@@ -609,8 +348,8 @@
                         حقوق ماهانه
                     </span>
 
-                    <h3>
-                        ۲,۴۵۰ $
+                    <h3 id="emp-salary">
+                        —
                     </h3>
 
                     <small>
@@ -627,8 +366,8 @@
                         ساعات کاری روزانه
                     </span>
 
-                    <h3>
-                        ۸.۲ ساعت
+                    <h3 id="emp-hours">
+                        —
                     </h3>
 
                     <small>
@@ -645,12 +384,12 @@
                         مجموع فروش ایجادشده
                     </span>
 
-                    <h3>
-                        ۱۲۴,۸۰۰ $
+                    <h3 id="emp-total-sales">
+                        —
                     </h3>
 
-                    <small class="positive">
-                        ↑ ۱۴.۶٪
+                    <small id="emp-count">
+                        در حال بارگذاری...
                     </small>
 
                 </div>
@@ -663,12 +402,12 @@
                         امتیاز عملکرد
                     </span>
 
-                    <h3>
-                        ۸۷ از ۱۰۰
+                    <h3 id="emp-score">
+                        —
                     </h3>
 
-                    <small class="positive">
-                        عملکرد خوب
+                    <small id="emp-score-label">
+                        در حال بارگذاری...
                     </small>
 
                 </div>
@@ -737,114 +476,91 @@
 
 
 
-                        <tbody>
-
-
-                            <tr>
-
-                                <td>
-                                    کارمند ۰۱
-                                </td>
-
-                                <td>
-                                    ۲,۶۰۰ $
-                                </td>
-
-                                <td>
-                                    ۸.۵
-                                </td>
-
-                                <td>
-                                    ۳۸,۵۰۰ $
-                                </td>
-
-                                <td>
-                                    ۹۲
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    کارمند ۰۲
-                                </td>
-
-                                <td>
-                                    ۲,۳۰۰ $
-                                </td>
-
-                                <td>
-                                    ۸
-                                </td>
-
-                                <td>
-                                    ۳۱,۲۰۰ $</td>
-
-                                <td>
-                                    ۸۶
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    کارمند ۰۳
-                                </td>
-
-                                <td>
-                                    ۲,۴۵۰ $
-                                </td>
-
-                                <td>
-                                    ۸.۲
-                                </td>
-
-                                <td>
-                                    ۲۹,۷۰۰ $
-                                </td>
-
-                                <td>
-                                    ۸۴
-                                </td>
-
-                            </tr>
-
-
-
-                            <tr>
-
-                                <td>
-                                    کارمند ۰۴
-                                </td>
-
-                                <td>
-                                    ۲,۵۰۰ $
-                                </td>
-
-                                <td>
-                                    ۸.۱
-                                </td>
-
-                                <td>
-                                    ۲۵,۴۰۰ $
-                                </td>
-
-                                <td>
-                                    ۸۱
-                                </td>
-
-                            </tr>
-
+                        <tbody id="employees-tbody">
 
                         </tbody>
 
                     </table>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- ================= MATPLOTLIB CHARTS ================= -->
+
+            <div class="section-heading employee-heading">
+
+                <h2>
+                    نمودارهای تحلیلی
+                </h2>
+
+                <p>
+                    خروجی نمودارهای پایتون
+                </p>
+
+            </div>
+
+
+            <div class="charts-grid">
+
+
+                <div class="panel">
+
+                    <div class="panel-header">
+
+                        <div>
+
+                            <h3>
+                                عملکرد فروش کارمندان
+                            </h3>
+
+                        </div>
+
+                    </div>
+
+                    <img src="chart_employee_performance.png" alt="عملکرد فروش کارمندان" class="chart-img">
+
+                </div>
+
+
+
+                <div class="panel">
+
+                    <div class="panel-header">
+
+                        <div>
+
+                            <h3>
+                                روش‌های پرداخت
+                            </h3>
+
+                        </div>
+
+                    </div>
+
+                    <img src="chart_payment_methods.png" alt="روش‌های پرداخت" class="chart-img">
+
+                </div>
+
+
+
+                <div class="panel">
+
+                    <div class="panel-header">
+
+                        <div>
+
+                            <h3>
+                                فروش بر اساس دسته‌بندی
+                            </h3>
+
+                        </div>
+
+                    </div>
+
+                    <img src="chart_category_sales.png" alt="فروش دسته‌بندی" class="chart-img">
 
                 </div>
 
@@ -858,14 +574,157 @@
         <!-- Footer -->
 
         <footer>
-
             ShopVision | داشبورد تحلیل داده
-
         </footer>
 
 
     </main>
 
+
+    <script src="dashboard_data.js"></script>
+
+    <script>
+        // ---------- ابزارهای قالب‌بندی ----------
+
+        const faDigits = (s) =>
+            String(s).replace(/\d/g, (d) => '۰۱۲۳۴۵۶۷۸۹'[d]);
+
+        const money = (n, decimals = 0) =>
+            faDigits(
+                n.toLocaleString('en-US', {
+                    minimumFractionDigits: decimals,
+                    maximumFractionDigits: decimals,
+                })
+            ) + ' $';
+
+        const num = (n, decimals = 0) =>
+            faDigits(
+                n.toLocaleString('en-US', {
+                    minimumFractionDigits: decimals,
+                    maximumFractionDigits: decimals,
+                })
+            );
+
+        const paymentLabels = {
+            'Card': 'کارت بانکی',
+            'Cash': 'نقدی',
+            'Online Transfer': 'آنلاین',
+        };
+
+        const categoryLabels = {
+            'Accessories': 'لوازم جانبی',
+            'Laptops': 'لپ‌تاپ',
+            'Monitors': 'مانیتور',
+            'Storage': 'ذخیره‌ساز',
+            'Tablets': 'تبلت',
+        };
+
+        const data = DASHBOARD_DATA;
+        const sales = data.sales;
+
+        // ---------- کارت‌های فروش ----------
+
+        document.getElementById('stat-revenue').textContent = money(sales.total_revenue);
+        document.getElementById('stat-revenue-sub').textContent =
+            num(data.total_orders) + ' تراکنش ثبت‌شده';
+
+        document.getElementById('stat-avg-price').textContent = money(sales.avg_unit_price, 2);
+
+        document.getElementById('stat-quantity').textContent = num(sales.total_quantity);
+        document.getElementById('stat-quantity-sub').textContent = 'قطعه فروخته‌شده';
+
+        // ---------- نمودار روش پرداخت ----------
+
+        const paymentEntries = Object.entries(sales.revenue_by_payment);
+        const maxPayment = Math.max(...paymentEntries.map(([, v]) => v));
+
+        document.getElementById('payment-chart').innerHTML = paymentEntries
+            .map(([method, value]) => `
+                <div class="payment-row">
+                    <div class="payment-info">
+                        <span>${paymentLabels[method] || method}</span>
+                        <strong>${money(value)}</strong>
+                    </div>
+                    <div class="bar">
+                        <div style="width: ${Math.round((value / maxPayment) * 100)}%;"></div>
+                    </div>
+                </div>
+            `)
+            .join('');
+
+        // ---------- لیست دسته‌بندی‌ها ----------
+
+        const categoryEntries = Object.entries(sales.revenue_by_category)
+            .sort((a, b) => b[1] - a[1]);
+
+        document.getElementById('category-list').innerHTML = categoryEntries
+            .map(([cat, value]) => `
+                <div class="category-item">
+                    <span>${categoryLabels[cat] || cat}</span>
+                    <strong>${money(value)}</strong>
+                </div>
+            `)
+            .join('');
+
+        // ---------- جدول فروش ----------
+
+        document.getElementById('sales-tbody').innerHTML = data.recent_sales
+            .map((row) => `
+                <tr>
+                    <td>${row.product}</td>
+                    <td>${categoryLabels[row.category] || row.category}</td>
+                    <td>${num(row.quantity)}</td>
+                    <td>${money(row.unit_price_usd, 2)}</td>
+                    <td>${paymentLabels[row.payment_method] || row.payment_method}</td>
+                    <td>${money(row.revenue_usd, 2)}</td>
+                </tr>
+            `)
+            .join('');
+
+        // ---------- کارت‌های کارکنان ----------
+
+        const employees = Object.values(data.employees);
+        const avg = (arr) => arr.reduce((a, b) => a + b, 0) / arr.length;
+
+        const avgSalary = avg(employees.map((e) => e.monthly_salary_usd));
+        const avgHours = avg(employees.map((e) => e.hours_per_day));
+        const totalSales = employees.reduce((a, e) => a + e.total_sales_generated, 0);
+        const avgScore = avg(employees.map((e) => e.performance_score));
+
+        document.getElementById('emp-salary').textContent = money(avgSalary);
+        document.getElementById('emp-hours').textContent = faDigits(avgHours.toFixed(1)) + ' ساعت';
+        document.getElementById('emp-total-sales').textContent = money(totalSales);
+        document.getElementById('emp-count').textContent =
+            num(employees.length) + ' کارمند فعال';
+        document.getElementById('emp-score').textContent =
+            faDigits(Math.round(avgScore)) + ' از ۱۰۰';
+
+        const scoreLabel = document.getElementById('emp-score-label');
+        if (avgScore >= 90) {
+            scoreLabel.textContent = 'عملکرد عالی';
+            scoreLabel.className = 'positive';
+        } else if (avgScore >= 75) {
+            scoreLabel.textContent = 'عملکرد خوب';
+            scoreLabel.className = 'positive';
+        } else {
+            scoreLabel.textContent = 'قابل بهبود';
+        }
+
+        // ---------- جدول کارکنان ----------
+
+        document.getElementById('employees-tbody').innerHTML = Object.entries(data.employees)
+            .sort((a, b) => b[1].total_sales_generated - a[1].total_sales_generated)
+            .map(([name, e]) => `
+                <tr>
+                    <td>${name}</td>
+                    <td>${money(e.monthly_salary_usd)}</td>
+                    <td>${faDigits(e.hours_per_day)}</td>
+                    <td>${money(e.total_sales_generated)}</td>
+                    <td>${faDigits(e.performance_score.toFixed(1))}</td>
+                </tr>
+            `)
+            .join('');
+    </script>
 
 </body>
 </html>

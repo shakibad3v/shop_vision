@@ -1,1 +1,124 @@
-{"sales": {"total_revenue": 327300.04, "avg_unit_price": 469.84956, "total_quantity": 730, "revenue_by_payment": {"Card": 83662.44, "Cash": 121521.62, "Online Transfer": 122115.98}, "revenue_by_category": {"Accessories": 15123.7, "Laptops": 163420.42, "Monitors": 52042.97, "Storage": 16428.05, "Tablets": 80284.9}}, "employees": {"Ali Karimi": {"monthly_salary_usd": 2150, "hours_per_day": 7.0, "total_sales_generated": 51528.02, "performance_score": 87.4}, "Amir Salehi": {"monthly_salary_usd": 2150, "hours_per_day": 8.0, "total_sales_generated": 52845.27, "performance_score": 75.6}, "Hanieh Hosseinzadeh": {"monthly_salary_usd": 1400, "hours_per_day": 8.0, "total_sales_generated": 54259.61, "performance_score": 89.0}, "Mina Rahimi": {"monthly_salary_usd": 2800, "hours_per_day": 7.0, "total_sales_generated": 42837.61, "performance_score": 85.1}, "Raha Mohammadi": {"monthly_salary_usd": 3000, "hours_per_day": 8.0, "total_sales_generated": 56866.25, "performance_score": 95.3}, "Sara Ahmadi": {"monthly_salary_usd": 1650, "hours_per_day": 7.0, "total_sales_generated": 68963.28, "performance_score": 78.4}}}
+{
+  "sales": {
+    "total_revenue": 327300.04,
+    "avg_unit_price": 469.84956,
+    "total_quantity": 730,
+    "revenue_by_payment": {
+      "Card": 83662.44,
+      "Cash": 121521.62,
+      "Online Transfer": 122115.98
+    },
+    "revenue_by_category": {
+      "Accessories": 15123.7,
+      "Laptops": 163420.42,
+      "Monitors": 52042.97,
+      "Storage": 16428.05,
+      "Tablets": 80284.9
+    }
+  },
+  "employees": {
+    "Ali Karimi": {
+      "monthly_salary_usd": 2150,
+      "hours_per_day": 7.0,
+      "total_sales_generated": 51528.02,
+      "performance_score": 87.4
+    },
+    "Amir Salehi": {
+      "monthly_salary_usd": 2150,
+      "hours_per_day": 8.0,
+      "total_sales_generated": 52845.27,
+      "performance_score": 75.6
+    },
+    "Hanieh Hosseinzadeh": {
+      "monthly_salary_usd": 1400,
+      "hours_per_day": 8.0,
+      "total_sales_generated": 54259.61,
+      "performance_score": 89.0
+    },
+    "Mina Rahimi": {
+      "monthly_salary_usd": 2800,
+      "hours_per_day": 7.0,
+      "total_sales_generated": 42837.61,
+      "performance_score": 85.1
+    },
+    "Raha Mohammadi": {
+      "monthly_salary_usd": 3000,
+      "hours_per_day": 8.0,
+      "total_sales_generated": 56866.25,
+      "performance_score": 95.3
+    },
+    "Sara Ahmadi": {
+      "monthly_salary_usd": 1650,
+      "hours_per_day": 7.0,
+      "total_sales_generated": 68963.28,
+      "performance_score": 78.4
+    }
+  },
+  "recent_sales": [
+    {
+      "product": "Gaming Laptop X",
+      "category": "Laptops",
+      "quantity": 3,
+      "unit_price_usd": 1591.14,
+      "payment_method": "Cash",
+      "revenue_usd": 4773.42
+    },
+    {
+      "product": "Laptop Pro 14",
+      "category": "Laptops",
+      "quantity": 4,
+      "unit_price_usd": 1227.66,
+      "payment_method": "Online Transfer",
+      "revenue_usd": 4665.11
+    },
+    {
+      "product": "Gaming Laptop X",
+      "category": "Laptops",
+      "quantity": 3,
+      "unit_price_usd": 1552.58,
+      "payment_method": "Card",
+      "revenue_usd": 4657.74
+    },
+    {
+      "product": "Laptop Pro 14",
+      "category": "Laptops",
+      "quantity": 3,
+      "unit_price_usd": 1358.88,
+      "payment_method": "Online Transfer",
+      "revenue_usd": 3872.81
+    },
+    {
+      "product": "Business Laptop 15",
+      "category": "Laptops",
+      "quantity": 3,
+      "unit_price_usd": 1149.14,
+      "payment_method": "Online Transfer",
+      "revenue_usd": 3447.42
+    },
+    {
+      "product": "Gaming Laptop X",
+      "category": "Laptops",
+      "quantity": 2,
+      "unit_price_usd": 1608.05,
+      "payment_method": "Cash",
+      "revenue_usd": 3216.1
+    },
+    {
+      "product": "Gaming Laptop X",
+      "category": "Laptops",
+      "quantity": 2,
+      "unit_price_usd": 1604.55,
+      "payment_method": "Card",
+      "revenue_usd": 3209.1
+    },
+    {
+      "product": "Ultrawide Monitor 34",
+      "category": "Monitors",
+      "quantity": 4,
+      "unit_price_usd": 725.34,
+      "payment_method": "Card",
+      "revenue_usd": 2901.36
+    }
+  ],
+  "total_orders": 500
+}

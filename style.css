@@ -299,6 +299,17 @@ section {
 }
 
 
+/* ================= CHART IMAGES ================= */
+
+.chart-img {
+    width: 100%;
+
+    height: auto;
+
+    border-radius: 9px;
+}
+
+
 /* ================= PAYMENT ================= */
 
 .payment-row {
